@@ -41,7 +41,8 @@
 -   [React Foundation](https://react.foundation/) - [![Repo Star](https://img.shields.io/github/stars/nordsoftware/react-foundation.svg?label=&style=social)](https://github.com/nordsoftware/react-foundation) - React components for [Foundation](https://foundation.zurb.com/) UI Design.
 -   [UXCore](http://uxco.re/) [![Repo Star](https://img.shields.io/github/stars/uxcore/uxcore.svg?label=&style=social)](https://github.com/uxcore/uxcore) - A React UI Component Suites living for enterprise application by Alibaba, Inc.
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-react-ui/) - UI Component based on kendo UI toolkit.
--   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) - xtReact offers more than 115 pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
+-   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) - 115 pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
+-   `[Paid]`[Wijmo React](https://www.grapecity.com/en/react/) - React components for Wizmo Toolkit from grapeCity.
 
 ### Special use case libraries
 
