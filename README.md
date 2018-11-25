@@ -1,4 +1,4 @@
-# awesome-component-library
+# awesome-ui-component-library
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
