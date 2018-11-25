@@ -10,9 +10,9 @@
 
 <!-- toc -->
 
--   [React Library/Frameworks](#react-libraryframeworks)
-    -   [Special use case libraries](#special-use-case-libraries)
-    -   [Related community list](#related-community-list)
+- [React Library/Frameworks](#react-libraryframeworks)
+  * [Special use case libraries](#special-use-case-libraries)
+  * [Related community list](#related-community-list)
 
 <!-- tocstop -->
 
