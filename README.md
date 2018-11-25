@@ -36,6 +36,7 @@
 -   [Carbon](http://react.carbondesignsystem.com) [![Repo Star](https://img.shields.io/github/stars/IBM/carbon-components-react.svg?label=&style=social)](https://github.com/IBM/carbon-components-react) - React components according to IBM’s [Carbon design system](http://carbondesignsystem.com/)
 -   [KhanAcademy React](http://khan.github.io/react-components/) [![Repo Star](https://img.shields.io/github/stars/Khan/react-components.svg?label=&style=social)](https://github.com/Khan/react-components) - Khan’s academy’s React UI components released to the community
 -   [Gestalt](https://pinterest.github.io/gestalt/) [![Repo Star](https://img.shields.io/github/stars/pinterest/gestalt.svg?label=&style=social)](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language.
+-   [React MD](https://react-md.mlaursen.com/) [![Repo Star](https://img.shields.io/github/stars/mlaursen/react-md.svg?label=&style=social)](https://github.com/mlaursen/react-md) - React toolkit for building a web app with Google’s Material Design with very highly customizable themes and styling (Sass)
 
 ## Related community list
 
