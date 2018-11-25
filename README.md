@@ -10,9 +10,10 @@
 
 <!-- toc -->
 
-<!-- tocstop -->
+-   [React Library/Frameworks](#react-libraryframeworks)
+-   [Related community list](#related-community-list)
 
----
+<!-- tocstop -->
 
 ## React Library/Frameworks
 
