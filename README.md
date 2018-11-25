@@ -11,6 +11,7 @@
 <!-- toc -->
 
 -   [React Library/Frameworks](#react-libraryframeworks)
+    -   [Special use case libraries](#special-use-case-libraries)
 -   [Related community list](#related-community-list)
 
 <!-- tocstop -->
@@ -38,6 +39,10 @@
 -   [Gestalt](https://pinterest.github.io/gestalt/) [![Repo Star](https://img.shields.io/github/stars/pinterest/gestalt.svg?label=&style=social)](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language.
 -   [React MD](https://react-md.mlaursen.com/) [![Repo Star](https://img.shields.io/github/stars/mlaursen/react-md.svg?label=&style=social)](https://github.com/mlaursen/react-md) - React toolkit for building a web app with Google’s Material Design with very highly customizable themes and styling (Sass)
 -   [React Foundation](https://react.foundation/) - [![Repo Star](https://img.shields.io/github/stars/nordsoftware/react-foundation.svg?label=&style=social)](https://github.com/nordsoftware/react-foundation) - React components for [Foundation](https://foundation.zurb.com/) UI Design.
+
+### Special use case libraries
+
+-   [React Virtualized](https://bvaughn.github.io/react-virtualized/) [![Repo Star](https://img.shields.io/github/stars/bvaughn/react-virtualized.svg?label=&style=social)](https://github.com/bvaughn/react-virtualized) - React components for virtualizing large data sets for efficiently rendering lists and tabular data
 
 ## Related community list
 
