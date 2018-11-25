@@ -1,2 +1,5 @@
 # awesome-component-library
-Curated list of frontend component libraries
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> Curated list of frontend component libraries
