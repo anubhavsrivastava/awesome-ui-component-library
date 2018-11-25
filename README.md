@@ -27,6 +27,7 @@
 -   [React Desktop](http://reactdesktop.js.org/) [![Repo Star](https://img.shields.io/github/stars/gabrielbull/react-desktop.svg?label=&style=social)](https://github.com/gabrielbull/react-desktop) - UI component library which aims to bring a native desktop experience to the web, featuring many macOS Sierra and Windows 10 components.
 -   [Semantic UI React](https://react.semantic-ui.com/) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-React)- Semantic UI React is the official React integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations. Examples can be found [here](https://github.com/Semantic-Org/Semantic-UI-React/tree/master/examples)
 -   [Onsen UI React](https://onsen.io/react/) [![Repo Star](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?label=&style=social)](https://github.com/OnsenUI/OnsenUI) - More than 100 components are specially made for Material and Flat design based on original the Onsen UI framework
+-   [Rebass](https://rebassjs.org/) [![Repo Star](https://img.shields.io/github/stars/rebassjs/rebass.svg?label=&style=social)](https://github.com/rebassjs/rebass) - React UI component library & design system, built with styled-components and styled-system. It’s a great choice for Styled-components fans.
 
 ## Related community list
 
