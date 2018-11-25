@@ -32,6 +32,7 @@
 -   [Belle](http://nikgraf.github.io/) [![Repo Star](https://img.shields.io/github/stars/nikgraf/belle.svg?label=&style=social)](https://github.com/nikgraf/belle/) - A set of React components optimized for mobile & desktop with highly customizable styles which can be configured on the base level as well individually for each one of them.
 -   [Prime React](https://www.primefaces.org/primereact) [![Repo Star](https://img.shields.io/github/stars/primefaces/primereact.svg?label=&style=social)](https://github.com/primefaces/primereact) - This project which provides a rich and unique selection of over 60 UI components with multiple themes
 -   [Atlaskit](https://atlaskit.atlassian.com/) - Atlasssian’s official React UI kit is the technical implementation of the Atlassian Design Guidelines (ADG)
+-   [Fabric](https://developer.microsoft.com/en-us/fabric)[![Repo Star](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-react.svg?label=&style=social)](https://github.com/OfficeDev/office-ui-fabric-react) - A set of React components for building experiences for Office and Office 365 by Microsoft, written in Typescript.
 
 ## Related community list
 
