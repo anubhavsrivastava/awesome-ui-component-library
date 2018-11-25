@@ -40,6 +40,7 @@
 -   [React MD](https://react-md.mlaursen.com/) [![Repo Star](https://img.shields.io/github/stars/mlaursen/react-md.svg?label=&style=social)](https://github.com/mlaursen/react-md) - React toolkit for building a web app with Google’s Material Design with very highly customizable themes and styling (Sass)
 -   [React Foundation](https://react.foundation/) - [![Repo Star](https://img.shields.io/github/stars/nordsoftware/react-foundation.svg?label=&style=social)](https://github.com/nordsoftware/react-foundation) - React components for [Foundation](https://foundation.zurb.com/) UI Design.
 -   [UXCore](http://uxco.re/) [![Repo Star](https://img.shields.io/github/stars/uxcore/uxcore.svg?label=&style=social)](https://github.com/uxcore/uxcore) - A React UI Component Suites living for enterprise application by Alibaba, Inc.
+-   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-react-ui/) - UI Component based on kendo UI toolkit.
 
 ### Special use case libraries
 
