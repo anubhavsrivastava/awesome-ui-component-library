@@ -25,6 +25,7 @@
 -   [reactstrap](https://reactstrap.github.io/) [![Repo Star](https://img.shields.io/github/stars/reactstrap/reactstrap.svg?label=&style=social)](https://github.com/reactstrap/reactstrap) - Stateless React Bootstrap 4 components that favor composition and control. The library does not depend on jQuery or Bootstrap javascript
 -   [React Toolbox](http://react-toolbox.io) [![Repo Star](https://img.shields.io/github/stars/react-toolbox/react-toolbox.svg?label=&style=social)](https://github.com/react-toolbox/react-toolbox/) - set of React components that implement Google's Material Design specification. It's powered by CSS Modules and harmoniously integrates with your webpack workflow.
 -   [React Desktop](http://reactdesktop.js.org/) [![Repo Star](https://img.shields.io/github/stars/gabrielbull/react-desktop.svg?label=&style=social)](https://github.com/gabrielbull/react-desktop) - UI component library which aims to bring a native desktop experience to the web, featuring many macOS Sierra and Windows 10 components.
+-   [Semantic UI React](https://react.semantic-ui.com/) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-React)- Semantic UI React is the official React integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations. Examples can be found [here](https://github.com/Semantic-Org/Semantic-UI-React/tree/master/examples)
 
 ## Related community list
 
