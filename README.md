@@ -12,7 +12,7 @@
 
 -   [React Library/Frameworks](#react-libraryframeworks)
     -   [Special use case libraries](#special-use-case-libraries)
--   [Related community list](#related-community-list)
+    -   [Related community list](#related-community-list)
 
 <!-- tocstop -->
 
@@ -44,7 +44,10 @@
 ### Special use case libraries
 
 -   [React Virtualized](https://bvaughn.github.io/react-virtualized/) [![Repo Star](https://img.shields.io/github/stars/bvaughn/react-virtualized.svg?label=&style=social)](https://github.com/bvaughn/react-virtualized) - React components for virtualizing large data sets for efficiently rendering lists and tabular data
+-   [Halogen](https://github.com/yuanyan/halogen) [![Repo Star](https://img.shields.io/github/stars/yuanyan/halogen.svg?label=&style=social)](https://github.com/yuanyan/halogen) - A collection of loading spinners with React.js
+-   [Recharts](http://recharts.org) [![Repo Star](https://img.shields.io/github/stars/recharts/recharts.svg?label=&style=social)](https://github.com/recharts/recharts) - Redefined chart library components built with D3
 
-## Related community list
+### Related community list
 
+-   [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 -   [Awesome React Component](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
