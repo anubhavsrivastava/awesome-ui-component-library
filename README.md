@@ -43,6 +43,7 @@
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-react-ui/) - UI Component based on kendo UI toolkit.
 -   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) - 115 pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
 -   `[Paid]`[Wijmo React](https://www.grapecity.com/en/react/) - React components for Wizmo Toolkit from grapeCity.
+-   `[Paid]`[jQWidgets](https://www.jqwidgets.com/react//) - React components based on jqwidgets.
 
 ### Special use case libraries
 
