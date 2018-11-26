@@ -86,6 +86,7 @@
 -   [Onsen UI](https://onsen.io/vue/) [![Repo Star](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?label=&style=social)](https://github.com/OnsenUI/OnsenUI) - More than 100 components are specially made for Material and Flat design based on original the Onsen UI framework
 -   [Semantic UI Vue](https://semantic-ui-vue.github.io/) [![Repo Star](https://img.shields.io/github/stars/Semantic-UI-Vue/Semantic-UI-Vue.svg?label=&style=social)](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI React is the official React integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations. Examples can be found [here](https://github.com/Semantic-Org/Semantic-UI-React/tree/master/examples)
 -   [Fish-UI](https://myliang.github.io/fish-ui/) [![Repo Star](https://img.shields.io/github/stars/myliang/fish-ui.svg?label=&style=social)](https://github.com/myliang/fish-ui) - provides a Vue-based web toolkit with neat and clean looking components. The library supports a ES2015 + Webpack workflow
+-   [Mint UI](http://mint-ui.github.io/#!/en) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/mint-ui.svg?label=&style=social)](https://github.com/ElemeFE/mint-ui/) - Mobile UI elements for Vue.js
 
 ### Related community list
 
