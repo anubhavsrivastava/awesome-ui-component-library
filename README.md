@@ -74,6 +74,7 @@
 -   [Quasar](https://quasar-framework.org/) [![Repo Star](https://img.shields.io/github/stars/quasarframework/quasar.svg?label=&style=social)](https://github.com/quasarframework/quasar) - Responsive Single Page Apps, Server-side Render Apps, Progressive Web Apps, Hybrid Mobile Apps (that look native!) & Electron Apps with theming support.
 -   [Element](https://element.eleme.io/) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/element.svg?label=&style=social)](https://github.com/ElemeFE/element) - Library provides a rich selection of customizable components along with a full style-guide based on Vue 2.0
 -   [Vue Material](https://vuematerial.io/) [![Repo Star](https://img.shields.io/github/stars/vuematerial/vue-material.svg?label=&style=social)](https://github.com/vuematerial/vue-material) - library implementing Googles material design. The library also provides a webpack boilerplate, SSR template for Nuxt.js and a single HTML file to start with the framework
+-   [Keen-UI](https://josephuspaye.github.io/Keen-UI) [![Repo Star](https://img.shields.io/github/stars/JosephusPaye/Keen-UI.svg?label=&style=social)](https://github.com/JosephusPaye/Keen-UI) - keen-ui is a collection of Vue components inspired by material design, but is not meant to be a full implementation of the Material Design spec.
 
 ### Related community list
 
