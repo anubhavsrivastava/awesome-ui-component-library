@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of frontend component libraries/framework/toolkit
+> Curated list of ui component libraries/framework/toolkit aka ui framework
 
 `This list doesn't include individual components`
 
@@ -100,6 +100,8 @@
 -   `[Paid]`[jQWidgets](https://www.jqwidgets.com/vue-js-ui-components-for-jqwidgets/) - Vue components based on jqwidgets.
 
 ### Related community list
+
+-   [Awesome Vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 
 ## Angular
 
