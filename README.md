@@ -62,6 +62,7 @@
 ## VueJS
 
 -   [Vuetify](https://vuetifyjs.com/) [![Repo Star](https://img.shields.io/github/stars/vuetifyjs/vuetify.svg?label=&style=social)](https://github.com/vuetifyjs/vuetify) - Vue.js components implemented according to Google’s material design guidelines. Vuetify supports all modern browsers across platforms, including IE11 and Safari 9+
+-   [Quasar](https://quasar-framework.org/) [![Repo Star](https://img.shields.io/github/stars/quasarframework/quasar.svg?label=&style=social)](https://github.com/quasarframework/quasar) - Responsive Single Page Apps, Server-side Render Apps, Progressive Web Apps, Hybrid Mobile Apps (that look native!) & Electron Apps with theming support.
 
 ## Angular
 
