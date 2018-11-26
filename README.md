@@ -61,6 +61,8 @@
 
 ## VueJS
 
+-   [Vuetify](https://vuetifyjs.com/) [![Repo Star](https://img.shields.io/github/stars/vuetifyjs/vuetify.svg?label=&style=social)](https://github.com/vuetifyjs/vuetify) - Vue.js components implemented according to Google’s material design guidelines. Vuetify supports all modern browsers across platforms, including IE11 and Safari 9+
+
 ## Angular
 
 ## EmberJS
