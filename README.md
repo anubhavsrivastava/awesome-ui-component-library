@@ -24,6 +24,7 @@
 -   [Blueprint](https://blueprintjs.com/) [![Repo Star](https://img.shields.io/github/stars/palantir/blueprint.svg?label=&style=social)](https://github.com/palantir/blueprint) - A React-based UI toolkit for building complex, data-dense web interfaces for desktop applications.
 -   [Carbon](http://react.carbondesignsystem.com) [![Repo Star](https://img.shields.io/github/stars/IBM/carbon-components-react.svg?label=&style=social)](https://github.com/IBM/carbon-components-react) - React components according to IBM’s [Carbon design system](http://carbondesignsystem.com/)
 -   [design-blocks](https://www.froala.com/design-blocks) [![Repo Star](https://img.shields.io/github/stars/froala/react-froala-design-blocks.svg?label=&style=social)](https://github.com/froala/react-froala-design-blocks) - Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library
+-   [Element](https://elemefe.github.io/element-react) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/element-react.svg?label=&style=social)](https://github.com/ElemeFE/element-react) - Initially build for VueJs, Library provides a rich selection of customizable components along with a full style-guide
 -   [Elemental UI](http://elemental-ui.com/) [![Repo Star](https://img.shields.io/github/stars/elementalui/elemental.svg?label=&style=social)](https://github.com/elementalui/elemental)- A UI Toolkit for React.js Websites and Apps
 -   [Fabric](https://developer.microsoft.com/en-us/fabric) [![Repo Star](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-react.svg?label=&style=social)](https://github.com/OfficeDev/office-ui-fabric-react) - A set of React components for building experiences for Office and Office 365 by Microsoft, written in Typescript.
 -   [Gestalt](https://pinterest.github.io/gestalt/) [![Repo Star](https://img.shields.io/github/stars/pinterest/gestalt.svg?label=&style=social)](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language.
@@ -63,8 +64,11 @@
 
 -   [Vuetify](https://vuetifyjs.com/) [![Repo Star](https://img.shields.io/github/stars/vuetifyjs/vuetify.svg?label=&style=social)](https://github.com/vuetifyjs/vuetify) - Vue.js components implemented according to Google’s material design guidelines. Vuetify supports all modern browsers across platforms, including IE11 and Safari 9+
 -   [Quasar](https://quasar-framework.org/) [![Repo Star](https://img.shields.io/github/stars/quasarframework/quasar.svg?label=&style=social)](https://github.com/quasarframework/quasar) - Responsive Single Page Apps, Server-side Render Apps, Progressive Web Apps, Hybrid Mobile Apps (that look native!) & Electron Apps with theming support.
+-   [Element](https://element.eleme.io/) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/element.svg?label=&style=social)](https://github.com/ElemeFE/element) - Library provides a rich selection of customizable components along with a full style-guide based on Vue 2.0
 
 ## Angular
+
+-   [Element](https://element-angular.faas.ele.me/) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/element-angular.svg?label=&style=social)](https://github.com/ElemeFE/element-angular) - Initially build for VueJs, Library provides a rich selection of customizable components along with a full style-guide
 
 ## EmberJS
 
