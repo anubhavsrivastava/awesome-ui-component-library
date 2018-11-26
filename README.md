@@ -10,9 +10,17 @@
 
 <!-- toc -->
 
--   [React Library/Frameworks](#react-libraryframeworks)
+-   [React](#react)
     -   [Special use case libraries](#special-use-case-libraries)
     -   [Related community list](#related-community-list)
+-   [VueJS](#vuejs)
+    -   [Related community list](#related-community-list-1)
+-   [Angular](#angular)
+    -   [Related community list](#related-community-list-2)
+-   [EmberJS](#emberjs)
+    -   [Related community list](#related-community-list-3)
+-   [Polymer](#polymer)
+    -   [Related community list](#related-community-list-4)
 
 <!-- tocstop -->
 
@@ -42,7 +50,7 @@
 -   [Rebass](https://rebassjs.org/) [![Repo Star](https://img.shields.io/github/stars/rebassjs/rebass.svg?label=&style=social)](https://github.com/rebassjs/rebass) - React UI component library & design system, built with styled-components and styled-system. It’s a great choice for Styled-components fans.
 -   [Semantic UI React](https://react.semantic-ui.com/) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-React)- Semantic UI React is the official React integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations. Examples can be found [here](https://github.com/Semantic-Org/Semantic-UI-React/tree/master/examples)
 -   [UXCore](http://uxco.re/) [![Repo Star](https://img.shields.io/github/stars/uxcore/uxcore.svg?label=&style=social)](https://github.com/uxcore/uxcore) - A React UI Component Suites living for enterprise application by Alibaba, Inc.
--   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) - 115 pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
+-   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) - 115+ pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
 -   `[Paid]`[jQWidgets](https://www.jqwidgets.com/react/) - React components based on jqwidgets.
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-react-ui/) - UI Component based on kendo UI toolkit.
 -   `[Paid]`[Mobiscroll](https://mobiscroll.com/react) - React components for Mobile UI Controls.
@@ -66,10 +74,18 @@
 -   [Quasar](https://quasar-framework.org/) [![Repo Star](https://img.shields.io/github/stars/quasarframework/quasar.svg?label=&style=social)](https://github.com/quasarframework/quasar) - Responsive Single Page Apps, Server-side Render Apps, Progressive Web Apps, Hybrid Mobile Apps (that look native!) & Electron Apps with theming support.
 -   [Element](https://element.eleme.io/) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/element.svg?label=&style=social)](https://github.com/ElemeFE/element) - Library provides a rich selection of customizable components along with a full style-guide based on Vue 2.0
 
+### Related community list
+
 ## Angular
 
 -   [Element](https://element-angular.faas.ele.me/) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/element-angular.svg?label=&style=social)](https://github.com/ElemeFE/element-angular) - Initially build for VueJs, Library provides a rich selection of customizable components along with a full style-guide
 
+### Related community list
+
 ## EmberJS
 
+### Related community list
+
 ## Polymer
+
+### Related community list
