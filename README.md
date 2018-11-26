@@ -91,7 +91,7 @@
 -   [Cube UI](https://didi.github.io/cube-ui/#/en-US) [![Repo Star](https://img.shields.io/github/stars/didi/cube-ui.svg?label=&style=social)](https://github.com/didi/cube-ui) - cube-ui is a UI component library for mobile apps
 -   [Vueblu](https://github.com/chenz24/vue-blu) [![Repo Star](https://img.shields.io/github/stars/chenz24/vue-blu.svg?label=&style=social)](https://github.com/chenz24/vue-blu) - UI Component Library Base on Vue.js(2.x) and Bulma
 -   [vue-antd](http://okoala.github.io/vue-antd) [![Repo Star](https://img.shields.io/github/stars/okoala/vue-antd.svg?label=&style=social)](https://github.com/okoala/vue-antd) - Here is the Vue implementation of Ant Design, which develops and serves enterprise back-end products.
-
+-   [Office UI Fabric Vue](https://aidewoode.github.io/office-ui-fabric-vue/) [![Repo Star](https://img.shields.io/github/stars/aidewoode/office-ui-fabric-vue.svg?label=&style=social)](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js, build with office-ui-fabric-js
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-vue-ui) - UI Component based on kendo UI toolkit.
 
 ### Related community list
