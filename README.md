@@ -92,6 +92,8 @@
 -   [Vueblu](https://github.com/chenz24/vue-blu) [![Repo Star](https://img.shields.io/github/stars/chenz24/vue-blu.svg?label=&style=social)](https://github.com/chenz24/vue-blu) - UI Component Library Base on Vue.js(2.x) and Bulma
 -   [vue-antd](http://okoala.github.io/vue-antd) [![Repo Star](https://img.shields.io/github/stars/okoala/vue-antd.svg?label=&style=social)](https://github.com/okoala/vue-antd) - Here is the Vue implementation of Ant Design, which develops and serves enterprise back-end products.
 
+-   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-vue-ui) - UI Component based on kendo UI toolkit.
+
 ### Related community list
 
 ## Angular
