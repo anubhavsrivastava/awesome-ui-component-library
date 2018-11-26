@@ -97,7 +97,7 @@
 -   [Framevuerk](https://framevuerk.com/) [![Repo Star](https://img.shields.io/github/stars/framevuerk/framevuerk.svg?label=&style=social)](https://github.com/framevuerk/framevuerk) - Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js
 -   [vue-beauty](https://fe-driver.github.io/vue-beauty/) [![Repo Star](https://img.shields.io/github/stars/FE-Driver/vue-beauty.svg?label=&style=social)](https://github.com/FE-Driver/vue-beauty) - UI components build with vue and ant design
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-vue-ui) - UI Component based on kendo UI toolkit.
--   `[Paid]`[jQWidgets](https://www.jqwidgets.com/vue-js-ui-components-for-jqwidgets/) - React components based on jqwidgets.
+-   `[Paid]`[jQWidgets](https://www.jqwidgets.com/vue-js-ui-components-for-jqwidgets/) - Vue components based on jqwidgets.
 
 ### Related community list
 
