@@ -82,6 +82,8 @@
 -   [Vux](https://vux.li/) [![Repo Star](https://img.shields.io/github/stars/airyland/vux.svg?label=&style=social)](https://github.com/airyland/vux) -Mobile UI Components based on WeUI
 -   [iView](https://iviewui.com/) [![Repo Star](https://img.shields.io/github/stars/iview/iview.svg?label=&style=social)](https://github.com/iview/iview) - iView provides dozens of UI components and widgets built with Vue.js and styled with a clean and elegant design
 -   [Uiv](https://uiv.wxsm.space/) [![Repo Star](https://img.shields.io/github/stars/wxsms/uiv.svg?label=&style=social)](https://github.com/wxsms/uiv) - Uiv is a Bootstrap 3 component library for Vue 2. All component combined are ~20KB, and the only external dependencies are Vue and Bootstrap CSS
+-   [Vuikit](https://vuikit.js.org/) [![Repo Star](https://img.shields.io/github/stars/vuikit/vuikit.svg?label=&style=social)](https://github.com/vuikit/vuikit) - A responsive Vue 2 UI library for web site interfaces based on the UIkit 3 framework.
+-   [Onsen UI](https://onsen.io/vue/) [![Repo Star](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?label=&style=social)](https://github.com/OnsenUI/OnsenUI) - More than 100 components are specially made for Material and Flat design based on original the Onsen UI framework
 
 ### Related community list
 
