@@ -95,6 +95,7 @@
 -   [vuestrap-base-components](http://kzima.github.io/vuestrap-base-components/#/) [![Repo Star](https://img.shields.io/github/stars/kzima/vuestrap-base-components.svg?label=&style=social)](https://github.com/kzima/vuestrap-base-components) - Vuestrap Base Components extend Bootstrap 4. Built with vuestrap, plain Vue.js and Webpack.
 -   [VueBoot](http://morgul.github.io/vueboot/) [![Repo Star](https://img.shields.io/github/stars/Morgul/vueboot.svg?label=&style=social)](https://github.com/Morgul/vueboot) - Vuejs components and directives written using Bootstrap v4, leveraging the official Bootstrap JS.
 -   [Framevuerk](https://framevuerk.com/) [![Repo Star](https://img.shields.io/github/stars/framevuerk/framevuerk.svg?label=&style=social)](https://github.com/framevuerk/framevuerk) - Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js
+-   [vue-beauty](https://fe-driver.github.io/vue-beauty/) [![Repo Star](https://img.shields.io/github/stars/FE-Driver/vue-beauty.svg?label=&style=social)](https://github.com/FE-Driver/vue-beauty) - UI components build with vue and ant design
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-vue-ui) - UI Component based on kendo UI toolkit.
 
 ### Related community list
