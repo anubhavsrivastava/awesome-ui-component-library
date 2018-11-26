@@ -88,6 +88,7 @@
 -   [Fish-UI](https://myliang.github.io/fish-ui/) [![Repo Star](https://img.shields.io/github/stars/myliang/fish-ui.svg?label=&style=social)](https://github.com/myliang/fish-ui) - provides a Vue-based web toolkit with neat and clean looking components. The library supports a ES2015 + Webpack workflow
 -   [Mint UI](http://mint-ui.github.io/#!/en) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/mint-ui.svg?label=&style=social)](https://github.com/ElemeFE/mint-ui/) - Mobile UI elements for Vue.js
 -   [Framework 7 Vue](https://framework7.io/vue/) [![Repo Star](https://img.shields.io/github/stars/nolimits4web/framework7.svg?label=&style=social)](https://github.com/nolimits4web/framework7/) - Full featured HTML framework for building iOS & Android apps
+-   [Cube UI](https://didi.github.io/cube-ui/#/en-US) [![Repo Star](https://img.shields.io/github/stars/didi/cube-ui.svg?label=&style=social)](https://github.com/didi/cube-ui) - cube-ui is a UI component library for mobile apps
 
 ### Related community list
 
