@@ -135,6 +135,7 @@
 -   [Ember Material Lite](http://mike.works/ember-material-lite) [![Repo Star](https://img.shields.io/github/stars/mike-north/ember-material-lite.svg?label=&style=social)](https://github.com/mike-north/ember-material-lite) - Material Design Lite for Ember.js Apps
 -   [Ember UIkit](https://github.com/adfinis-sygroup/ember-uikit) [![Repo Star](https://img.shields.io/github/stars/adfinis-sygroup/ember-uikit.svg?label=&style=social)](https://github.com/adfinis-sygroup/ember-uikit) - This addon is a wrapper for the CSS library UIkit which exposes certain components to give users an easy way for using UIkit in ember apps.
 -   [Ember Components](http://indexiatech.github.io/ember-components) [![Repo Star](https://img.shields.io/github/stars/indexiatech/ember-components.svg?label=&style=social)](https://github.com/indexiatech/ember-components) - This project aims to be the successor of [Bootstrap for Ember](https://github.com/ember-addons/bootstrap-for-ember) project as all components on this suite are not bound to any specific CSS framework.
+-   [SL Ember Components](http://softlayer.github.io/sl-ember-components/) [![Repo Star](https://img.shields.io/github/stars/softlayer/sl-ember-components.svg?label=&style=social)](https://github.com/softlayer/sl-ember-components) - An Ember CLI Addon that provides a variety of UI components.
 
 ### Special use case libraries
 
