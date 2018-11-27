@@ -109,6 +109,10 @@
 
 ### Related community list
 
+-   [Awesome Angular Components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
+
+### Related community list
+
 ## EmberJS
 
 ### Related community list
