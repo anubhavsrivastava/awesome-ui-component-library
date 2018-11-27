@@ -114,6 +114,7 @@
 -   [NG-ZORRO](https://ng.ant.design/?p=/docs/introduce/en) [![Repo Star](https://img.shields.io/github/stars/NG-ZORRO/ng-zorro-antd.svg?label=&style=social)](https://github.com/NG-ZORRO/ng-zorro-antd) - NG-ZORRO components aim to provide an enterprise-class UI based on Ant Design
 -   [NG Lightning](http://ng-lightning.github.io/ng-lightning/) [![Repo Star](https://img.shields.io/github/stars/ng-lightning/ng-lightning.svg?label=&style=social)](https://github.com/ng-lightning/ng-lightning) - Angular components built for the Saleforce Lightning Design System
 -   [NG Semantic-UI](https://ng-semantic.herokuapp.com/) [![Repo Star](https://img.shields.io/github/stars/vladotesanovic/ngSemantic.svg?label=&style=social)](https://github.com/vladotesanovic/ngSemantic) - Angular UI building blocks based on Semantic-UI
+-   [Clarity](https://vmware.github.io/clarity/) [![Repo Star](https://img.shields.io/github/stars/vmware/clarity.svg?label=&style=social)](https://github.com/vmware/clarity) - Clarity is an open source design system by VMware that brings together UX guidelines, an HTML/CSS framework, and Angular components
 
 ### Related community list
 
