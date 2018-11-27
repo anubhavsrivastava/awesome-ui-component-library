@@ -130,8 +130,12 @@
 
 ## EmberJS
 
--   [ui-bootstrap](https://github.com/lifegadget/ui-bootstrap) [![Repo Star](https://img.shields.io/github/stars/lifegadget/ui-bootstrap.svg?label=&style=social)](https://github.com/lifegadget/ui-bootstrap) - An Ember-flavoured Bootstrap 4.x eco-system
 -   [Semantic UI Ember](https://semantic-org.github.io/Semantic-UI-Ember/) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-Ember.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-Ember) - Semantic UI Ember is the official EmberJS integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations.
+-   [ui-bootstrap](https://github.com/lifegadget/ui-bootstrap) [![Repo Star](https://img.shields.io/github/stars/lifegadget/ui-bootstrap.svg?label=&style=social)](https://github.com/lifegadget/ui-bootstrap) - An Ember-flavoured Bootstrap 4.x eco-system
+
+### Special use case libraries
+
+-   [AnyChart-Ember](https://www.anychart.com/) [![Repo Star](https://img.shields.io/github/stars/AnyChart/AnyChart-Ember.svg?label=&style=social)](https://github.com/AnyChart/AnyChart-Ember) - AnyChart Component for Ember CLI provides an easy way to use AnyChart JavaScript Charts with Ember Framework
 
 ### Related community list
 
