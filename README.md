@@ -106,6 +106,7 @@
 ## Angular
 
 -   [Element](https://element-angular.faas.ele.me/) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/element-angular.svg?label=&style=social)](https://github.com/ElemeFE/element-angular) - Initially build for VueJs, Library provides a rich selection of customizable components along with a full style-guide
+-   [Material 2](https://material.angular.io/) [![Repo Star](https://img.shields.io/github/stars/angular/material2.svg?label=&style=social)](https://github.com/angular/material2) - Angular’s official component library implementing Google’s material design, built with Angular and TypeScript
 
 ### Related community list
 
