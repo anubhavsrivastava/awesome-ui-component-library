@@ -112,6 +112,7 @@
 -   [NG Bootstrap](https://ng-bootstrap.github.io/) [![Repo Star](https://img.shields.io/github/stars/ng-bootstrap/ng-bootstrap.svg?label=&style=social)](https://github.com/ng-bootstrap/ng-bootstrap) - replacing [angular-ui](https://github.com/angular-ui/bootstrap) bootstrap which is no longer maintained, it provides Bootstrap 4 components for Angular with no 3rd party JS dependencies
 -   [Onsen UI](https://onsen.io/angular2/) [![Repo Star](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?label=&style=social)](https://github.com/OnsenUI/OnsenUI) - More than 100 components are specially made for Material and Flat design based on original the Onsen UI framework
 -   [NG-ZORRO](https://ng.ant.design/?p=/docs/introduce/en) [![Repo Star](https://img.shields.io/github/stars/NG-ZORRO/ng-zorro-antd.svg?label=&style=social)](https://github.com/NG-ZORRO/ng-zorro-antd) - NG-ZORRO components aim to provide an enterprise-class UI based on Ant Design
+-   [NG Lightning](http://ng-lightning.github.io/ng-lightning/) [![Repo Star](https://img.shields.io/github/stars/ng-lightning/ng-lightning.svg?label=&style=social)](https://github.com/ng-lightning/ng-lightning) - Angular components built for the Saleforce Lightning Design System
 
 ### Related community list
 
