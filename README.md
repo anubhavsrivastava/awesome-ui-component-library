@@ -158,8 +158,10 @@
 
 ## Mithril
 
--   [Construct UI](https://vrimar.github.io/construct-ui/) [![Repo Star](https://img.shields.io/github/stars/vrimar/construct-ui.svg?label=&style=social)](https://github.com/vrimar/construct-ui) - A UI kit for mithriljs with many common components.
+-   [Construct UI](https://vrimar.github.io/construct-ui/) [![Repo Star](https://img.shields.io/github/stars/vrimar/construct-ui.svg?label=&style=social)](https://github.com/vrimar/construct-ui) - A UI kit for mithriljs with many common components inspired by blueprint
 -   [Polythene](https://arthurclemens.github.io/polythene-demos/mithril/#/) [![Repo Star](https://img.shields.io/github/stars/ArthurClemens/Polythene.svg?label=&style=social)](https://github.com/ArthurClemens/Polythene) - Material Design component library for Mithril
+-   [Mithril-Materialized](https://erikvullings.github.io/mithril-materialized/index.html) [![Repo Star](https://img.shields.io/github/stars/erikvullings/mithril-materialized.svg?label=&style=social)](https://github.com/erikvullings/mithril-materialized) - a materialized-CSS Mithril components library
+-   [mithril-ui](https://github.com/khalti/mithril-ui) [![Repo Star](https://img.shields.io/github/stars/khalti/mithril-ui.svg?label=&style=social)](https://github.com/khalti/mithril-ui) - UI components for Mithril.js
 
 ### Related community list
 
