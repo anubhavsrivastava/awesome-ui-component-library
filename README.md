@@ -10,18 +10,18 @@
 
 <!-- toc -->
 
-- [React](#react)
-  * [Special use case libraries](#special-use-case-libraries)
-  * [Related community list](#related-community-list)
-- [VueJS](#vuejs)
-  * [Related community list](#related-community-list-1)
-- [Angular](#angular)
-  * [Special use case libraries](#special-use-case-libraries-1)
-  * [Related community list](#related-community-list-2)
-- [EmberJS](#emberjs)
-  * [Related community list](#related-community-list-3)
-- [Polymer](#polymer)
-  * [Related community list](#related-community-list-4)
+-   [React](#react)
+    -   [Special use case libraries](#special-use-case-libraries)
+    -   [Related community list](#related-community-list)
+-   [VueJS](#vuejs)
+    -   [Related community list](#related-community-list-1)
+-   [Angular](#angular)
+    -   [Special use case libraries](#special-use-case-libraries-1)
+    -   [Related community list](#related-community-list-2)
+-   [EmberJS](#emberjs)
+    -   [Related community list](#related-community-list-3)
+-   [Polymer](#polymer)
+    -   [Related community list](#related-community-list-4)
 
 <!-- tocstop -->
 
@@ -86,7 +86,7 @@
 -   [Office UI Fabric Vue](https://aidewoode.github.io/office-ui-fabric-vue/) [![Repo Star](https://img.shields.io/github/stars/aidewoode/office-ui-fabric-vue.svg?label=&style=social)](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js, build with office-ui-fabric-js
 -   [Onsen UI](https://onsen.io/vue/) [![Repo Star](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?label=&style=social)](https://github.com/OnsenUI/OnsenUI) - More than 100 components are specially made for Material and Flat design based on original the Onsen UI framework
 -   [Quasar](https://quasar-framework.org/) [![Repo Star](https://img.shields.io/github/stars/quasarframework/quasar.svg?label=&style=social)](https://github.com/quasarframework/quasar) - Responsive Single Page Apps, Server-side Render Apps, Progressive Web Apps, Hybrid Mobile Apps (that look native!) & Electron Apps with theming support.
--   [Semantic UI Vue](https://semantic-ui-vue.github.io/) [![Repo Star](https://img.shields.io/github/stars/Semantic-UI-Vue/Semantic-UI-Vue.svg?label=&style=social)](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI React is the official React integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations. Examples can be found [here](https://github.com/Semantic-Org/Semantic-UI-React/tree/master/examples)
+-   [Semantic UI Vue](https://semantic-ui-vue.github.io/) [![Repo Star](https://img.shields.io/github/stars/Semantic-UI-Vue/Semantic-UI-Vue.svg?label=&style=social)](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI Vue is the official VueJS integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations.
 -   [Uiv](https://uiv.wxsm.space/) [![Repo Star](https://img.shields.io/github/stars/wxsms/uiv.svg?label=&style=social)](https://github.com/wxsms/uiv) - Uiv is a Bootstrap 3 component library for Vue 2. All component combined are ~20KB, and the only external dependencies are Vue and Bootstrap CSS
 -   [Vuetify](https://vuetifyjs.com/) [![Repo Star](https://img.shields.io/github/stars/vuetifyjs/vuetify.svg?label=&style=social)](https://github.com/vuetifyjs/vuetify) - Vue.js components implemented according to Google’s material design guidelines. Vuetify supports all modern browsers across platforms, including IE11 and Safari 9+
 -   [Vue Material](https://vuematerial.io/) [![Repo Star](https://img.shields.io/github/stars/vuematerial/vue-material.svg?label=&style=social)](https://github.com/vuematerial/vue-material) - library implementing Googles material design. The library also provides a webpack boilerplate, SSR template for Nuxt.js and a single HTML file to start with the framework
@@ -129,7 +129,12 @@
 
 ## EmberJS
 
+-   [ui-bootstrap](https://github.com/lifegadget/ui-bootstrap) [![Repo Star](https://img.shields.io/github/stars/lifegadget/ui-bootstrap.svg?label=&style=social)](https://github.com/lifegadget/ui-bootstrap) - An Ember-flavoured Bootstrap 4.x eco-system
+-   [Semantic UI Ember](https://semantic-org.github.io/Semantic-UI-Ember/) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-Ember.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-Ember) - Semantic UI Ember is the official EmberJS integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations.
+
 ### Related community list
+
+-   [Awesome Ember](https://github.com/nmec/awesome-ember) - A curated list of awesome Ember.js things.
 
 ## Polymer
 
