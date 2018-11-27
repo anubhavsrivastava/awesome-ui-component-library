@@ -116,6 +116,10 @@
 -   [NG Semantic-UI](https://ng-semantic.herokuapp.com/) [![Repo Star](https://img.shields.io/github/stars/vladotesanovic/ngSemantic.svg?label=&style=social)](https://github.com/vladotesanovic/ngSemantic) - Angular UI building blocks based on Semantic-UI
 -   [Clarity](https://vmware.github.io/clarity/) [![Repo Star](https://img.shields.io/github/stars/vmware/clarity.svg?label=&style=social)](https://github.com/vmware/clarity) - Clarity is an open source design system by VMware that brings together UX guidelines, an HTML/CSS framework, and Angular components
 
+### Special use case libraries
+
+-   [NG2 Charts](https://valor-software.com/ng2-charts) [![Repo Star](https://img.shields.io/github/stars/valor-software/ng2-charts.svg?label=&style=social)](https://github.com/valor-software/ng2-charts) - Angular directives for 6 different types of charts, with properties based on chart.js.
+
 ### Related community list
 
 -   [Awesome Angular](https://github.com/gdi2290/awesome-angular) - A curated list of awesome Angular resources
