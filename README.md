@@ -113,6 +113,7 @@
 -   [Onsen UI](https://onsen.io/angular2/) [![Repo Star](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?label=&style=social)](https://github.com/OnsenUI/OnsenUI) - More than 100 components are specially made for Material and Flat design based on original the Onsen UI framework
 -   [NG-ZORRO](https://ng.ant.design/?p=/docs/introduce/en) [![Repo Star](https://img.shields.io/github/stars/NG-ZORRO/ng-zorro-antd.svg?label=&style=social)](https://github.com/NG-ZORRO/ng-zorro-antd) - NG-ZORRO components aim to provide an enterprise-class UI based on Ant Design
 -   [NG Lightning](http://ng-lightning.github.io/ng-lightning/) [![Repo Star](https://img.shields.io/github/stars/ng-lightning/ng-lightning.svg?label=&style=social)](https://github.com/ng-lightning/ng-lightning) - Angular components built for the Saleforce Lightning Design System
+-   [NG Semantic-UI](https://ng-semantic.herokuapp.com/) [![Repo Star](https://img.shields.io/github/stars/vladotesanovic/ngSemantic.svg?label=&style=social)](https://github.com/vladotesanovic/ngSemantic) - Angular UI building blocks based on Semantic-UI
 
 ### Related community list
 
