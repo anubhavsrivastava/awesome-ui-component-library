@@ -25,6 +25,8 @@
 
 <!-- tocstop -->
 
+---
+
 ## React
 
 -   [Ant Design React](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React-based implementation. Ant-design Pro is available [here](https://github.com/ant-design/ant-design-pro)
@@ -69,6 +71,8 @@
 -   [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 -   [Awesome React Component](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
 
+---
+
 ## VueJS
 
 -   [AT-UI](https://at.aotu.io/) [![Repo Star](https://img.shields.io/github/stars/at-ui/at-ui.svg?label=&style=social)](https://github.com/at-ui/at-ui) - A fresh and flat UI-Kit specially for desktop application
@@ -104,6 +108,8 @@
 
 -   [Awesome Vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 
+---
+
 ## Angular
 
 -   [Clarity](https://vmware.github.io/clarity/) [![Repo Star](https://img.shields.io/github/stars/vmware/clarity.svg?label=&style=social)](https://github.com/vmware/clarity) - Clarity is an open source design system by VMware that brings together UX guidelines, an HTML/CSS framework, and Angular components
@@ -128,7 +134,13 @@
 -   [Awesome Angular](https://github.com/gdi2290/awesome-angular) - A curated list of awesome Angular resources
 -   [Awesome Angular Components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
 
+---
+
 ## EmberJS
+
+<p align="center">
+    <a href="https://emberjs.com"><img width="100" src="https://raw.githubusercontent.com/emberjs/website/master/source/images/brand/ember_Ember-Light.png"></a>
+</p>
 
 -   [Semantic UI Ember](https://semantic-org.github.io/Semantic-UI-Ember/) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-Ember.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-Ember) - Semantic UI Ember is the official EmberJS integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations.
 -   [UI-bootstrap](https://github.com/lifegadget/ui-bootstrap) [![Repo Star](https://img.shields.io/github/stars/lifegadget/ui-bootstrap.svg?label=&style=social)](https://github.com/lifegadget/ui-bootstrap) - An Ember-flavoured Bootstrap 4.x eco-system
@@ -145,6 +157,8 @@
 ### Related community list
 
 -   [Awesome Ember](https://github.com/nmec/awesome-ember) - A curated list of awesome Ember.js things.
+
+---
 
 ## Polymer
 
