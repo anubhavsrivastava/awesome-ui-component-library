@@ -2,9 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of ui component libraries/toolkit aka ui framework
+> Curated list of UI component libraries for UI frameworks/libraries
 
-`This list doesn't include individual components`
+`This list doesn't include individual component libraries`
 
 ## Table of Contents
 
