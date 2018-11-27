@@ -110,6 +110,7 @@
 -   [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/) [![Repo Star](https://img.shields.io/github/stars/valor-software/ngx-bootstrap.svg?label=&style=social)](https://github.com/valor-software/ngx-bootstrap) - Bootstrap 3/Bootstrap 4 Components with Angular, for both Mobile and Desktop.
 -   [Prime NG](https://www.primefaces.org/primeng/#/) [![Repo Star](https://img.shields.io/github/stars/primefaces/primeng.svg?label=&style=social)](https://github.com/primefaces/primeng) - This project which provides a rich and unique selection of over 60 UI components with multiple themes
 -   [NG Bootstrap](https://ng-bootstrap.github.io/) [![Repo Star](https://img.shields.io/github/stars/ng-bootstrap/ng-bootstrap.svg?label=&style=social)](https://github.com/ng-bootstrap/ng-bootstrap) - replacing [angular-ui](https://github.com/angular-ui/bootstrap) bootstrap which is no longer maintained, it provides Bootstrap 4 components for Angular with no 3rd party JS dependencies
+-   [Onsen UI](https://onsen.io/angular2/) [![Repo Star](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?label=&style=social)](https://github.com/OnsenUI/OnsenUI) - More than 100 components are specially made for Material and Flat design based on original the Onsen UI framework
 
 ### Related community list
 
