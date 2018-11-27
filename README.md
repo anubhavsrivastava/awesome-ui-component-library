@@ -108,6 +108,7 @@
 -   [Element](https://element-angular.faas.ele.me/) [![Repo Star](https://img.shields.io/github/stars/ElemeFE/element-angular.svg?label=&style=social)](https://github.com/ElemeFE/element-angular) - Initially build for VueJs, Library provides a rich selection of customizable components along with a full style-guide
 -   [Material 2](https://material.angular.io/) [![Repo Star](https://img.shields.io/github/stars/angular/material2.svg?label=&style=social)](https://github.com/angular/material2) - Angular’s official component library implementing Google’s material design, built with Angular and TypeScript
 -   [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/) [![Repo Star](https://img.shields.io/github/stars/valor-software/ngx-bootstrap.svg?label=&style=social)](https://github.com/valor-software/ngx-bootstrap) - Bootstrap 3/Bootstrap 4 Components with Angular, for both Mobile and Desktop.
+-   [Prime NG](https://www.primefaces.org/primeng/#/) [![Repo Star](https://img.shields.io/github/stars/primefaces/primeng.svg?label=&style=social)](https://github.com/primefaces/primeng) - This project which provides a rich and unique selection of over 60 UI components with multiple themes
 
 ### Related community list
 
