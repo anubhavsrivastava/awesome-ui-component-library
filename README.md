@@ -131,8 +131,9 @@
 ## EmberJS
 
 -   [Semantic UI Ember](https://semantic-org.github.io/Semantic-UI-Ember/) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-Ember.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-Ember) - Semantic UI Ember is the official EmberJS integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations.
--   [ui-bootstrap](https://github.com/lifegadget/ui-bootstrap) [![Repo Star](https://img.shields.io/github/stars/lifegadget/ui-bootstrap.svg?label=&style=social)](https://github.com/lifegadget/ui-bootstrap) - An Ember-flavoured Bootstrap 4.x eco-system
--   [ember-material-lite](http://mike.works/ember-material-lite) [![Repo Star](https://img.shields.io/github/stars/mike-north/ember-material-lite.svg?label=&style=social)](https://github.com/mike-north/ember-material-lite) - Material Design Lite for Ember.js Apps
+-   [UI-bootstrap](https://github.com/lifegadget/ui-bootstrap) [![Repo Star](https://img.shields.io/github/stars/lifegadget/ui-bootstrap.svg?label=&style=social)](https://github.com/lifegadget/ui-bootstrap) - An Ember-flavoured Bootstrap 4.x eco-system
+-   [Ember Material Lite](http://mike.works/ember-material-lite) [![Repo Star](https://img.shields.io/github/stars/mike-north/ember-material-lite.svg?label=&style=social)](https://github.com/mike-north/ember-material-lite) - Material Design Lite for Ember.js Apps
+-   [Ember UIkit](https://github.com/adfinis-sygroup/ember-uikit) [![Repo Star](https://img.shields.io/github/stars/adfinis-sygroup/ember-uikit.svg?label=&style=social)](https://github.com/adfinis-sygroup/ember-uikit) - This addon is a wrapper for the CSS library UIkit which exposes certain components to give users an easy way for using UIkit in ember apps.
 
 ### Special use case libraries
 
