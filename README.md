@@ -109,6 +109,7 @@
 -   [Material 2](https://material.angular.io/) [![Repo Star](https://img.shields.io/github/stars/angular/material2.svg?label=&style=social)](https://github.com/angular/material2) - Angular’s official component library implementing Google’s material design, built with Angular and TypeScript
 -   [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/) [![Repo Star](https://img.shields.io/github/stars/valor-software/ngx-bootstrap.svg?label=&style=social)](https://github.com/valor-software/ngx-bootstrap) - Bootstrap 3/Bootstrap 4 Components with Angular, for both Mobile and Desktop.
 -   [Prime NG](https://www.primefaces.org/primeng/#/) [![Repo Star](https://img.shields.io/github/stars/primefaces/primeng.svg?label=&style=social)](https://github.com/primefaces/primeng) - This project which provides a rich and unique selection of over 60 UI components with multiple themes
+-   [NG Bootstrap](https://ng-bootstrap.github.io/) [![Repo Star](https://img.shields.io/github/stars/ng-bootstrap/ng-bootstrap.svg?label=&style=social)](https://github.com/ng-bootstrap/ng-bootstrap) - replacing [angular-ui](https://github.com/angular-ui/bootstrap) bootstrap which is no longer maintained, it provides Bootstrap 4 components for Angular with no 3rd party JS dependencies
 
 ### Related community list
 
