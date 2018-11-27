@@ -159,6 +159,7 @@
 ## Mithril
 
 -   [Construct UI](https://vrimar.github.io/construct-ui/) [![Repo Star](https://img.shields.io/github/stars/vrimar/construct-ui.svg?label=&style=social)](https://github.com/vrimar/construct-ui) - A UI kit for mithriljs with many common components.
+-   [Polythene](https://arthurclemens.github.io/polythene-demos/mithril/#/) [![Repo Star](https://img.shields.io/github/stars/ArthurClemens/Polythene.svg?label=&style=social)](https://github.com/ArthurClemens/Polythene) - Material Design component library for Mithril
 
 ### Related community list
 
