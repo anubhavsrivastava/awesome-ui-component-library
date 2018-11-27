@@ -116,6 +116,7 @@
 -   [Material 2](https://material.angular.io/) [![Repo Star](https://img.shields.io/github/stars/angular/material2.svg?label=&style=social)](https://github.com/angular/material2) - Angular’s official component library implementing Google’s material design, built with Angular and TypeScript
 -   [Onsen UI](https://onsen.io/angular2/) [![Repo Star](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?label=&style=social)](https://github.com/OnsenUI/OnsenUI) - More than 100 components are specially made for Material and Flat design based on original the Onsen UI framework
 -   [Prime NG](https://www.primefaces.org/primeng/#/) [![Repo Star](https://img.shields.io/github/stars/primefaces/primeng.svg?label=&style=social)](https://github.com/primefaces/primeng) - This project which provides a rich and unique selection of over 60 UI components with multiple themes
+-   [Semantic UI Angular](https://github.com/Semantic-Org/Semantic-UI-Angular) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-Angular.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-Angular) - Semantic UI Angular is the official Angular integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations.
 
 ### Special use case libraries
 
