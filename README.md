@@ -10,17 +10,18 @@
 
 <!-- toc -->
 
--   [React](#react)
-    -   [Special use case libraries](#special-use-case-libraries)
-    -   [Related community list](#related-community-list)
--   [VueJS](#vuejs)
-    -   [Related community list](#related-community-list-1)
--   [Angular](#angular)
-    -   [Related community list](#related-community-list-2)
--   [EmberJS](#emberjs)
-    -   [Related community list](#related-community-list-3)
--   [Polymer](#polymer)
-    -   [Related community list](#related-community-list-4)
+- [React](#react)
+  * [Special use case libraries](#special-use-case-libraries)
+  * [Related community list](#related-community-list)
+- [VueJS](#vuejs)
+  * [Related community list](#related-community-list-1)
+- [Angular](#angular)
+  * [Special use case libraries](#special-use-case-libraries-1)
+  * [Related community list](#related-community-list-2)
+- [EmberJS](#emberjs)
+  * [Related community list](#related-community-list-3)
+- [Polymer](#polymer)
+  * [Related community list](#related-community-list-4)
 
 <!-- tocstop -->
 
