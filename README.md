@@ -156,6 +156,10 @@
 
 ---
 
-## Polymer
+## Mithril
+
+-   [Construct UI](https://vrimar.github.io/construct-ui/) [![Repo Star](https://img.shields.io/github/stars/vrimar/construct-ui.svg?label=&style=social)](https://github.com/vrimar/construct-ui) - A UI kit for mithriljs with many common components.
 
 ### Related community list
+
+-   [Awesome Mithril](https://github.com/orbitbot/awesome-mithril) - A curated list of Mithril awesome
