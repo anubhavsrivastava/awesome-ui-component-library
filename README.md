@@ -126,8 +126,6 @@
 -   [Awesome Angular](https://github.com/gdi2290/awesome-angular) - A curated list of awesome Angular resources
 -   [Awesome Angular Components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
 
-### Related community list
-
 ## EmberJS
 
 ### Related community list
