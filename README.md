@@ -29,6 +29,7 @@
 
 ## React
 
+-   [Amaze UI](http://amazeui.org/react/) [![Repo Star](https://img.shields.io/github/stars/amazeui/amazeui-react.svg?label=&style=social)](https://github.com/amazeui/amazeui-react) - React components based on [AmazeUI](http://amazeui.org/)
 -   [Ant Design React](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React-based implementation. Ant-design Pro is available [here](https://github.com/ant-design/ant-design-pro)
 -   [Atlaskit](https://atlaskit.atlassian.com/) - Atlasssian’s official React UI kit is the technical implementation of the Atlassian Design Guidelines (ADG)
 -   [Belle](http://nikgraf.github.io/) [![Repo Star](https://img.shields.io/github/stars/nikgraf/belle.svg?label=&style=social)](https://github.com/nikgraf/belle/) - A set of React components optimized for mobile & desktop with highly customizable styles which can be configured on the base level as well individually for each one of them.
