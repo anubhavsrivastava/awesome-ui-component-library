@@ -10,19 +10,19 @@
 
 <!-- toc -->
 
-- [React](#react)
-  * [Special use case libraries](#special-use-case-libraries)
-  * [Related community list](#related-community-list)
-- [VueJS](#vuejs)
-  * [Related community list](#related-community-list-1)
-- [Angular](#angular)
-  * [Special use case libraries](#special-use-case-libraries-1)
-  * [Related community list](#related-community-list-2)
-- [EmberJS](#emberjs)
-  * [Special use case libraries](#special-use-case-libraries-2)
-  * [Related community list](#related-community-list-3)
-- [Mithril](#mithril)
-  * [Related community list](#related-community-list-4)
+-   [React](#react)
+    -   [Special use case libraries](#special-use-case-libraries)
+    -   [Related community list](#related-community-list)
+-   [VueJS](#vuejs)
+    -   [Related community list](#related-community-list-1)
+-   [Angular](#angular)
+    -   [Special use case libraries](#special-use-case-libraries-1)
+    -   [Related community list](#related-community-list-2)
+-   [EmberJS](#emberjs)
+    -   [Special use case libraries](#special-use-case-libraries-2)
+    -   [Related community list](#related-community-list-3)
+-   [Mithril](#mithril)
+    -   [Related community list](#related-community-list-4)
 
 <!-- tocstop -->
 
@@ -185,7 +185,7 @@
 -   [Ember UIkit](https://github.com/adfinis-sygroup/ember-uikit) [![Repo Star](https://img.shields.io/github/stars/adfinis-sygroup/ember-uikit.svg?label=&style=social)](https://github.com/adfinis-sygroup/ember-uikit) - This addon is a wrapper for the CSS library UIkit which exposes certain components to give users an easy way for using UIkit in ember apps.
 -   [Ember Components](http://indexiatech.github.io/ember-components) [![Repo Star](https://img.shields.io/github/stars/indexiatech/ember-components.svg?label=&style=social)](https://github.com/indexiatech/ember-components) - This project aims to be the successor of [Bootstrap for Ember](https://github.com/ember-addons/bootstrap-for-ember) project as all components on this suite are not bound to any specific CSS framework.
 -   [SL Ember Components](http://softlayer.github.io/sl-ember-components/) [![Repo Star](https://img.shields.io/github/stars/softlayer/sl-ember-components.svg?label=&style=social)](https://github.com/softlayer/sl-ember-components) - An Ember CLI Addon that provides a variety of UI components.
--   [Ember Material Design](http://mike1234.com/ember-material-design) [![Repo Star](https://img.shields.io/github/stars/mike1o1/ember-material-design.svg?label=&style=social)](https://github.com/mike1o1/ember-material-design) -
+-   [Ember Material Design](http://mike1234.com/ember-material-design) [![Repo Star](https://img.shields.io/github/stars/mike1o1/ember-material-design.svg?label=&style=social)](https://github.com/mike1o1/ember-material-design) - Implementation of Material Design in EmberJS
 
 ### Special use case libraries
 
