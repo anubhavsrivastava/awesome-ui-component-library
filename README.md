@@ -58,7 +58,7 @@
 -   [RSuite](https://rsuitejs.com/) [![Repo Star](https://img.shields.io/github/stars/rsuite/rsuite.svg?label=&style=social)](https://github.com/rsuite/rsuite) - RSUITE (React Suite) is a set of react component libraries for enterprise system products.
 -   [Semantic UI React](https://react.semantic-ui.com/) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-React)- Semantic UI React is the official React integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations. Examples can be found [here](https://github.com/Semantic-Org/Semantic-UI-React/tree/master/examples)
 -   [UXCore](http://uxco.re/) [![Repo Star](https://img.shields.io/github/stars/uxcore/uxcore.svg?label=&style=social)](https://github.com/uxcore/uxcore) - A React UI Component Suites living for enterprise application by Alibaba, Inc.
--   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) - 115+ pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
+-   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) [![Repo Star](https://img.shields.io/github/stars/sencha/ext-react.svg?label=&style=social)](https://github.com/sencha/ext-react) - 115+ pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
 -   `[Paid]`[jQWidgets](https://www.jqwidgets.com/react/) - React components based on jqwidgets.
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-react-ui/) - UI Component based on kendo UI toolkit.
 -   `[Paid]`[Mobiscroll](https://mobiscroll.com/react) - React components for Mobile UI Controls.
