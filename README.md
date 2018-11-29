@@ -94,6 +94,7 @@
 ## VueJS
 
 -   [AT-UI](https://at.aotu.io/) [![Repo Star](https://img.shields.io/github/stars/at-ui/at-ui.svg?label=&style=social)](https://github.com/at-ui/at-ui) - A fresh and flat UI-Kit specially for desktop application
+-   [BalmUI](https://material.balmjs.com/#/) [![Repo Star](https://img.shields.io/github/stars/balmjs/ui-vue.svg?label=&style=social)](https://github.com/balmjs/ui-vue) - Next Generation Material UI for Vue.js
 -   [Bootstrap Vue](https://bootstrap-vue.js.org/) [![Repo Star](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue.svg?label=&style=social)](https://github.com/bootstrap-vue/bootstrap-vue) - comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.
 -   [Buefy](https://buefy.github.io/) [![Repo Star](https://img.shields.io/github/stars/buefy/buefy.svg?label=&style=social)](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma, which are the library’s only two internal dependancies
 -   [Cube UI](https://didi.github.io/cube-ui/#/en-US) [![Repo Star](https://img.shields.io/github/stars/didi/cube-ui.svg?label=&style=social)](https://github.com/didi/cube-ui) - cube-ui is a UI component library for mobile apps
