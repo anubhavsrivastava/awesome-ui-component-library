@@ -120,6 +120,7 @@
 -   [vuestrap-base-components](http://kzima.github.io/vuestrap-base-components/#/) [![Repo Star](https://img.shields.io/github/stars/kzima/vuestrap-base-components.svg?label=&style=social)](https://github.com/kzima/vuestrap-base-components) - Vuestrap Base Components extend Bootstrap 4. Built with vuestrap, plain Vue.js and Webpack.
 -   [VueBoot](http://morgul.github.io/vueboot/) [![Repo Star](https://img.shields.io/github/stars/Morgul/vueboot.svg?label=&style=social)](https://github.com/Morgul/vueboot) - Vuejs components and directives written using Bootstrap v4, leveraging the official Bootstrap JS.
 -   [Vuesax](https://lusaxweb.github.io/vuesax/) [![Repo Star](https://img.shields.io/github/stars/lusaxweb/vuesax.svg?label=&style=social)](https://github.com/lusaxweb/vuesax) - Vuesax is a library of Vuejs components that facilitates front-end development and streamlines work with great visual quality.
+-   [Zircle UI](https://zircleui.github.io/docs/?utm_source=zircle) [![Repo Star](https://img.shields.io/github/stars/zircleUI/zircleUI.svg?label=&style=social)](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces
 
 #
 
