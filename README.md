@@ -90,6 +90,7 @@
 -   [Recharts](http://recharts.org) [![Repo Star](https://img.shields.io/github/stars/recharts/recharts.svg?label=&style=social)](https://github.com/recharts/recharts) - Redefined chart library components built with D3
 -   [React CSS Loaders](https://lucasbassetti.com.br/react-css-loaders/) [![Repo Star](https://img.shields.io/github/stars/LucasBassetti/react-css-loaders.svg?label=&style=social)](https://github.com/LucasBassetti/react-css-loaders) - A collection of pure CSS React loading components
 -   [React Virtualized](https://bvaughn.github.io/react-virtualized/) [![Repo Star](https://img.shields.io/github/stars/bvaughn/react-virtualized.svg?label=&style=social)](https://github.com/bvaughn/react-virtualized) - React components for virtualizing large data sets for efficiently rendering lists and tabular data
+-   [Styled Icons](https://styled-icons.js.org/) [![Repo Star](https://img.shields.io/github/stars/jacobwgillespie/styled-icons.svg?label=&style=social)](https://github.com/jacobwgillespie/styled-icons) - Font Awesome, Feather, Material Design, and Octicons icon packs as Styled Components
 -   `[Paid]` [ag-grid](https://www.ag-grid.com/) - Cross platform components for Grid/Tables
 
 ### Related community list
