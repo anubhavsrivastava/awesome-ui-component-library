@@ -150,6 +150,7 @@
 
 #
 
+-   [Epic Spinners](https://epic-spinners.epicmax.co/#/) [![Repo Star](https://img.shields.io/github/stars/epicmaxco/epic-spinners.svg?label=&style=social)](https://github.com/epicmaxco/epic-spinners) - Reusable Vue components for spinners
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-vue-ui) - UI Component based on kendo UI toolkit.
 -   `[Paid]`[jQWidgets](https://www.jqwidgets.com/vue-js-ui-components-for-jqwidgets/) - Vue components based on jqwidgets.
 
