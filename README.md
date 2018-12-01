@@ -6,7 +6,7 @@
 
 `This list doesn't include individual component libraries`
 
-## Table of Contents
+## Contents
 
 <!-- toc -->
 
