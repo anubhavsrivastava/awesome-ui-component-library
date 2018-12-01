@@ -88,6 +88,7 @@
 
 -   [Halogen](https://github.com/yuanyan/halogen) [![Repo Star](https://img.shields.io/github/stars/yuanyan/halogen.svg?label=&style=social)](https://github.com/yuanyan/halogen) - A collection of loading spinners with React.js
 -   [Recharts](http://recharts.org) [![Repo Star](https://img.shields.io/github/stars/recharts/recharts.svg?label=&style=social)](https://github.com/recharts/recharts) - Redefined chart library components built with D3
+-   [React CSS Loaders](https://lucasbassetti.com.br/react-css-loaders/) [![Repo Star](https://img.shields.io/github/stars/LucasBassetti/react-css-loaders.svg?label=&style=social)](https://github.com/LucasBassetti/react-css-loaders) - A collection of pure CSS React loading components
 -   [React Virtualized](https://bvaughn.github.io/react-virtualized/) [![Repo Star](https://img.shields.io/github/stars/bvaughn/react-virtualized.svg?label=&style=social)](https://github.com/bvaughn/react-virtualized) - React components for virtualizing large data sets for efficiently rendering lists and tabular data
 -   `[Paid]` [ag-grid](https://www.ag-grid.com/) - Cross platform components for Grid/Tables
 
