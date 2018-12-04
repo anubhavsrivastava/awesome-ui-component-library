@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of framework component libraries for UI styles
+> Curated list of framework component libraries for UI styles/toolkit
 
 `This list doesn't include individual component libraries`
 
