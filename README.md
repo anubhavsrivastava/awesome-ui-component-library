@@ -154,9 +154,10 @@
 -   [vuestrap-base-components](http://kzima.github.io/vuestrap-base-components/#/) [![Repo Star](https://img.shields.io/github/stars/kzima/vuestrap-base-components.svg?label=&style=social)](https://github.com/kzima/vuestrap-base-components) - Vuestrap Base Components extend Bootstrap 4. Built with vuestrap, plain Vue.js and Webpack.
 -   [VueBoot](http://morgul.github.io/vueboot/) [![Repo Star](https://img.shields.io/github/stars/Morgul/vueboot.svg?label=&style=social)](https://github.com/Morgul/vueboot) - Vuejs components and directives written using Bootstrap v4, leveraging the official Bootstrap JS.
 -   [Vuesax](https://lusaxweb.github.io/vuesax/) [![Repo Star](https://img.shields.io/github/stars/lusaxweb/vuesax.svg?label=&style=social)](https://github.com/lusaxweb/vuesax) - Vuesax is a library of Vuejs components that facilitates front-end development and streamlines work with great visual quality.
+-   [VueStrap](https://wffranco.github.io/vue-strap/) [![Repo Star](https://img.shields.io/github/stars/wffranco/vue-strap.svg?label=&style=social)](https://github.com/wffranco/vue-strap) - a set of native Vue.js components based on Bootstrap's markup and CSS. No dependency on jQuery or Bootstrap's JavaScript.
 -   [Zircle UI](https://zircleui.github.io/docs/?utm_source=zircle) [![Repo Star](https://img.shields.io/github/stars/zircleUI/zircleUI.svg?label=&style=social)](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces
 
-#
+# Special use case libraries
 
 -   [Epic Spinners](https://epic-spinners.epicmax.co/#/) [![Repo Star](https://img.shields.io/github/stars/epicmaxco/epic-spinners.svg?label=&style=social)](https://github.com/epicmaxco/epic-spinners) - Reusable Vue components for spinners
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-vue-ui) - UI Component based on kendo UI toolkit.
