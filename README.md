@@ -14,12 +14,13 @@
     -   [Special use case libraries](#special-use-case-libraries)
     -   [Related community list](#related-community-list)
 -   [VueJS](#vuejs)
+    -   [Special use case libraries](#special-use-case-libraries-1)
     -   [Related community list](#related-community-list-1)
 -   [Angular](#angular)
-    -   [Special use case libraries](#special-use-case-libraries-1)
+    -   [Special use case libraries](#special-use-case-libraries-2)
     -   [Related community list](#related-community-list-2)
 -   [EmberJS](#emberjs)
-    -   [Special use case libraries](#special-use-case-libraries-2)
+    -   [Special use case libraries](#special-use-case-libraries-3)
     -   [Related community list](#related-community-list-3)
 -   [Mithril](#mithril)
     -   [Related community list](#related-community-list-4)
@@ -157,7 +158,7 @@
 -   [VueStrap](https://wffranco.github.io/vue-strap/) [![Repo Star](https://img.shields.io/github/stars/wffranco/vue-strap.svg?label=&style=social)](https://github.com/wffranco/vue-strap) - a set of native Vue.js components based on Bootstrap's markup and CSS. No dependency on jQuery or Bootstrap's JavaScript.
 -   [Zircle UI](https://zircleui.github.io/docs/?utm_source=zircle) [![Repo Star](https://img.shields.io/github/stars/zircleUI/zircleUI.svg?label=&style=social)](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces
 
-# Special use case libraries
+### Special use case libraries
 
 -   [Epic Spinners](https://epic-spinners.epicmax.co/#/) [![Repo Star](https://img.shields.io/github/stars/epicmaxco/epic-spinners.svg?label=&style=social)](https://github.com/epicmaxco/epic-spinners) - Reusable Vue components for spinners
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-vue-ui) - UI Component based on kendo UI toolkit.
