@@ -239,3 +239,16 @@
 ### Related community list
 
 -   [Awesome Mithril](https://github.com/orbitbot/awesome-mithril) - A curated list of Mithril awesome
+
+---
+
+## Web Components
+
+-   [Elix](https://github.com/elix/elix) [![Repo Star](https://img.shields.io/github/stars/elix/elix.svg?label=&style=social)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns
+-   [Material Web Components](https://github.com/material-components/material-components-web-components) [![Repo Star](https://img.shields.io/github/stars/material-components/material-components-web-components.svg?label=&style=social)](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components
+-   [Vaadin components](https://github.com/vaadin/vaadin) [![Repo Star](https://img.shields.io/github/stars/vaadin/vaadin.svg?label=&style=social)](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications
+-   [Wired Elements](https://github.com/wiredjs/wired-elements) [![Repo Star](https://img.shields.io/github/stars/wiredjs/wired-elements.svg?label=&style=social)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
+
+### Related community list
+
+-   [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - A curated list of awesome Web Components resources.
