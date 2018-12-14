@@ -10,20 +10,22 @@
 
 <!-- toc -->
 
--   [React](#react)
-    -   [Special use case libraries](#special-use-case-libraries)
-    -   [Related community list](#related-community-list)
--   [VueJS](#vuejs)
-    -   [Special use case libraries](#special-use-case-libraries-1)
-    -   [Related community list](#related-community-list-1)
--   [Angular](#angular)
-    -   [Special use case libraries](#special-use-case-libraries-2)
-    -   [Related community list](#related-community-list-2)
--   [EmberJS](#emberjs)
-    -   [Special use case libraries](#special-use-case-libraries-3)
-    -   [Related community list](#related-community-list-3)
--   [Mithril](#mithril)
-    -   [Related community list](#related-community-list-4)
+- [React](#react)
+  * [Special use case libraries](#special-use-case-libraries)
+  * [Related community list](#related-community-list)
+- [VueJS](#vuejs)
+  * [Special use case libraries](#special-use-case-libraries-1)
+  * [Related community list](#related-community-list-1)
+- [Angular](#angular)
+  * [Special use case libraries](#special-use-case-libraries-2)
+  * [Related community list](#related-community-list-2)
+- [EmberJS](#emberjs)
+  * [Special use case libraries](#special-use-case-libraries-3)
+  * [Related community list](#related-community-list-3)
+- [Mithril](#mithril)
+  * [Related community list](#related-community-list-4)
+- [Web Components](#web-components)
+  * [Related community list](#related-community-list-5)
 
 <!-- tocstop -->
 
