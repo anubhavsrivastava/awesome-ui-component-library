@@ -10,25 +10,25 @@
 
 <!-- toc -->
 
-- [React](#react)
-  * [Special use case libraries](#special-use-case-libraries)
-  * [Related community list](#related-community-list)
-- [VueJS](#vuejs)
-  * [Special use case libraries](#special-use-case-libraries-1)
-  * [Related community list](#related-community-list-1)
-- [React Native](#react-native)
-  * [Special use case libraries](#special-use-case-libraries-2)
-  * [Related community list](#related-community-list-2)
-- [Angular](#angular)
-  * [Special use case libraries](#special-use-case-libraries-3)
-  * [Related community list](#related-community-list-3)
-- [EmberJS](#emberjs)
-  * [Special use case libraries](#special-use-case-libraries-4)
-  * [Related community list](#related-community-list-4)
-- [Mithril](#mithril)
-  * [Related community list](#related-community-list-5)
-- [Web Components](#web-components)
-  * [Related community list](#related-community-list-6)
+-   [React](#react)
+    -   [Special use case libraries](#special-use-case-libraries)
+    -   [Related community list](#related-community-list)
+-   [VueJS](#vuejs)
+    -   [Special use case libraries](#special-use-case-libraries-1)
+    -   [Related community list](#related-community-list-1)
+-   [React Native](#react-native)
+    -   [Special use case libraries](#special-use-case-libraries-2)
+    -   [Related community list](#related-community-list-2)
+-   [Angular](#angular)
+    -   [Special use case libraries](#special-use-case-libraries-3)
+    -   [Related community list](#related-community-list-3)
+-   [EmberJS](#emberjs)
+    -   [Special use case libraries](#special-use-case-libraries-4)
+    -   [Related community list](#related-community-list-4)
+-   [Mithril](#mithril)
+    -   [Related community list](#related-community-list-5)
+-   [Web Components](#web-components)
+    -   [Related community list](#related-community-list-6)
 
 <!-- tocstop -->
 
@@ -193,6 +193,7 @@
 -   [React Native UI Lib](https://wix.github.io/react-native-ui-lib/) [![Repo Star](https://img.shields.io/github/stars/wix/react-native-ui-lib.svg?label=&style=social)](https://github.com/wix/react-native-ui-lib) - UI Toolset & Components Library for React Native
 -   [React Virgin](https://trixieapp.github.io/react-virgin/) [![Repo Star](https://img.shields.io/github/stars/Trixieapp/react-virgin.svg?label=&style=social)](https://github.com/Trixieapp/react-virgin) - UI kit with boiler plate for your React-Native projects
 -   [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction) [![Repo Star](https://img.shields.io/github/stars/shoutem/ui.svg?label=&style=social)](https://github.com/shoutem/ui) - styleable components for React Native applications for iOS and Android. All of our components are built to be both composable and customizable.
+-   [Teaset](https://github.com/rilyu/teaset) [![Repo Star](https://img.shields.io/github/stars/rilyu/teaset.svg?label=&style=social)](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
 
 ### Special use case libraries
 
