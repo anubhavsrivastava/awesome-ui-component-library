@@ -257,6 +257,8 @@
 
 -   [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - A curated list of awesome Web Components resources.
 
+---
+
 ## React Native
 
 -   [Nachos UI](https://avocode.com/nachos-ui/) [![Repo Star](https://img.shields.io/github/stars/nachos-ui/nachos-ui.svg?label=&style=social)](https://github.com/nachos-ui/nachos-ui) - Customizable ready to use 30+ components which works with [React Native for Web](https://github.com/necolas/react-native-web)
@@ -275,5 +277,5 @@
 
 ### Related community list
 
--   [Native Directory](https://native.directory) - Native Directory is a curated list of 364 React Native libraries to help you build your projects.
+-   [Native Directory](https://native.directory) - Native Directory is a curated list of React Native libraries to help you build your projects.
 -   [Awesome React Native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
