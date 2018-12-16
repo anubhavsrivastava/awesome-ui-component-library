@@ -1,0 +1,14 @@
+{
+	"name": "starbadge",
+	"version": "1.0.0",
+	"description": "Tool to create github star badge for markdowns",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"clipboardy": "^1.2.3"
+	}
+}
