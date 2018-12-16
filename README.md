@@ -10,24 +10,24 @@
 
 <!-- toc -->
 
-- [React](#react)
-  * [Special use case libraries](#special-use-case-libraries)
-  * [Related community list](#related-community-list)
-- [VueJS](#vuejs)
-  * [Special use case libraries](#special-use-case-libraries-1)
-  * [Related community list](#related-community-list-1)
-- [Angular](#angular)
-  * [Special use case libraries](#special-use-case-libraries-2)
-  * [Related community list](#related-community-list-2)
-- [EmberJS](#emberjs)
-  * [Special use case libraries](#special-use-case-libraries-3)
-  * [Related community list](#related-community-list-3)
-- [Mithril](#mithril)
-  * [Related community list](#related-community-list-4)
-- [Web Components](#web-components)
-  * [Related community list](#related-community-list-5)
-- [React Native](#react-native)
-  * [Related community list](#related-community-list-6)
+-   [React](#react)
+    -   [Special use case libraries](#special-use-case-libraries)
+    -   [Related community list](#related-community-list)
+-   [VueJS](#vuejs)
+    -   [Special use case libraries](#special-use-case-libraries-1)
+    -   [Related community list](#related-community-list-1)
+-   [Angular](#angular)
+    -   [Special use case libraries](#special-use-case-libraries-2)
+    -   [Related community list](#related-community-list-2)
+-   [EmberJS](#emberjs)
+    -   [Special use case libraries](#special-use-case-libraries-3)
+    -   [Related community list](#related-community-list-3)
+-   [Mithril](#mithril)
+    -   [Related community list](#related-community-list-4)
+-   [Web Components](#web-components)
+    -   [Related community list](#related-community-list-5)
+-   [React Native](#react-native)
+    -   [Related community list](#related-community-list-6)
 
 <!-- tocstop -->
 
@@ -260,6 +260,7 @@
 ## React Native
 
 -   [Nachos UI](https://avocode.com/nachos-ui/) [![Repo Star](https://img.shields.io/github/stars/nachos-ui/nachos-ui.svg?label=&style=social)](https://github.com/nachos-ui/nachos-ui) - Customizable ready to use 30+ components which works with [React Native for Web](https://github.com/necolas/react-native-web)
+-   [React Native Android Kit](https://github.com/adbayb/react-native-android-kit) [![Repo Star](https://img.shields.io/github/stars/adbayb/react-native-android-kit.svg?label=&style=social)](https://github.com/adbayb/react-native-android-kit) - A set of native Android UI components and modules for React Native framework that are currently not implemented by React Native core team
 -   [React Native Material Kit](http://xinthink.github.io/react-native-material-kit/) [![Repo Star](https://img.shields.io/github/stars/xinthink/react-native-material-kit.svg?label=&style=social)](https://github.com/xinthink/react-native-material-kit) - A set of UI components, in the purpose of introducing Material Design to apps built with React Native
 -   [React Native Material UI](https://github.com/xotahal/react-native-material-ui) [![Repo Star](https://img.shields.io/github/stars/xotahal/react-native-material-ui.svg?label=&style=social)](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native. Demo for this toolkit can be seen [here](https://github.com/xotahal/react-native-material-ui/blob/master/docs/Demo.md)
 -   [React Native UI Kitten](https://akveo.github.io/react-native-ui-kitten/#/home) [![Repo Star](https://img.shields.io/github/stars/akveo/react-native-ui-kitten.svg?label=&style=social)](https://github.com/akveo/react-native-ui-kitten) - Mobile framework with easily customizable elements which is able to create style configurations of components you use the most (buttons, inputs etc.)
