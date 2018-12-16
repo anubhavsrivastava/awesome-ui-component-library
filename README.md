@@ -267,6 +267,10 @@
 -   [React Native UI Lib](https://wix.github.io/react-native-ui-lib/) [![Repo Star](https://img.shields.io/github/stars/wix/react-native-ui-lib.svg?label=&style=social)](https://github.com/wix/react-native-ui-lib) - UI Toolset & Components Library for React Native
 -   [React Virgin](https://trixieapp.github.io/react-virgin/) [![Repo Star](https://img.shields.io/github/stars/Trixieapp/react-virgin.svg?label=&style=social)](https://github.com/Trixieapp/react-virgin) - UI kit with boiler plate for your React-Native projects
 
+### Special use case libraries
+
+-   [React Native Spinkit](https://github.com/maxs15/react-native-spinkit) [![Repo Star](https://img.shields.io/github/stars/maxs15/react-native-spinkit.svg?label=&style=social)](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
+
 ### Related community list
 
 -   [Awesome React Native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
