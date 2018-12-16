@@ -179,6 +179,34 @@
 
 ---
 
+## React Native
+
+-   [Nachos UI](https://avocode.com/nachos-ui/) [![Repo Star](https://img.shields.io/github/stars/nachos-ui/nachos-ui.svg?label=&style=social)](https://github.com/nachos-ui/nachos-ui) - Customizable ready to use 30+ components which works with [React Native for Web](https://github.com/necolas/react-native-web)
+-   [NativeBase](https://nativebase.io/) [![Repo Star](https://img.shields.io/github/stars/GeekyAnts/NativeBase.svg?label=&style=social)](https://github.com/GeekyAnts/NativeBase) - Essential cross-platform UI components for React Native. One of best in class for React Native Lovers. Recommended!
+-   [React Native Android Kit](https://github.com/adbayb/react-native-android-kit) [![Repo Star](https://img.shields.io/github/stars/adbayb/react-native-android-kit.svg?label=&style=social)](https://github.com/adbayb/react-native-android-kit) - A set of native Android UI components and modules for React Native framework that are currently not implemented by React Native core team
+-   [React Native Elements](https://react-native-training.github.io/react-native-elements) [![Repo Star](https://img.shields.io/github/stars/react-native-training/react-native-elements.svg?label=&style=social)](https://github.com/react-native-training/react-native-elements) - Cross Platform React Native UI Toolkit. Support for customisation and provides an all-in-one UI kit for creating apps in react native
+-   [React Native Material Kit](http://xinthink.github.io/react-native-material-kit/) [![Repo Star](https://img.shields.io/github/stars/xinthink/react-native-material-kit.svg?label=&style=social)](https://github.com/xinthink/react-native-material-kit) - A set of UI components, in the purpose of introducing Material Design to apps built with React Native
+-   [React Native Material UI](https://github.com/xotahal/react-native-material-ui) [![Repo Star](https://img.shields.io/github/stars/xotahal/react-native-material-ui.svg?label=&style=social)](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native. Demo for this toolkit can be seen [here](https://github.com/xotahal/react-native-material-ui/blob/master/docs/Demo.md)
+-   [React Native Paper](https://callstack.github.io/react-native-paper/) [![Repo Star](https://img.shields.io/github/stars/callstack/react-native-paper.svg?label=&style=social)](https://github.com/callstack/react-native-paper) - Component with follows Material design guidelines v2.0, Better RTL Support and full theming options
+-   [React Native UI Kitten](https://akveo.github.io/react-native-ui-kitten/#/home) [![Repo Star](https://img.shields.io/github/stars/akveo/react-native-ui-kitten.svg?label=&style=social)](https://github.com/akveo/react-native-ui-kitten) - Mobile framework with easily customizable elements which is able to create style configurations of components you use the most (buttons, inputs etc.)
+-   [React Native UI Lib](https://wix.github.io/react-native-ui-lib/) [![Repo Star](https://img.shields.io/github/stars/wix/react-native-ui-lib.svg?label=&style=social)](https://github.com/wix/react-native-ui-lib) - UI Toolset & Components Library for React Native
+-   [React Virgin](https://trixieapp.github.io/react-virgin/) [![Repo Star](https://img.shields.io/github/stars/Trixieapp/react-virgin.svg?label=&style=social)](https://github.com/Trixieapp/react-virgin) - UI kit with boiler plate for your React-Native projects
+-   [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction) [![Repo Star](https://img.shields.io/github/stars/shoutem/ui.svg?label=&style=social)](https://github.com/shoutem/ui) - styleable components for React Native applications for iOS and Android. All of our components are built to be both composable and customizable.
+
+### Special use case libraries
+
+-   [React Native Calendars](https://github.com/wix/react-native-calendars) [![Repo Star](https://img.shields.io/github/stars/wix/react-native-calendars.svg?label=&style=social)](https://github.com/wix/react-native-calendars) - various customizable react native calendar components.
+-   [React Native Chart](https://github.com/tomauty/react-native-chart) [![Repo Star](https://img.shields.io/github/stars/tomauty/react-native-chart.svg?label=&style=social)](https://github.com/tomauty/react-native-chart) - Add line, area, pie, and bar charts to your React Native app
+-   [React Native Circular Progress](https://github.com/bartgryszko/react-native-circular-progress) [![Repo Star](https://img.shields.io/github/stars/bartgryszko/react-native-circular-progress.svg?label=&style=social)](https://github.com/bartgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
+-   [React Native Spinkit](https://github.com/maxs15/react-native-spinkit) [![Repo Star](https://img.shields.io/github/stars/maxs15/react-native-spinkit.svg?label=&style=social)](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
+
+### Related community list
+
+-   [Native Directory](https://native.directory) - Native Directory is a curated list of React Native libraries to help you build your projects.
+-   [Awesome React Native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+
+---
+
 ## Angular
 
 -   [Alfresco](https://alfresco.github.io/adf-component-catalog/) [![Repo Star](https://img.shields.io/github/stars/Alfresco/alfresco-ng2-components.svg?label=&style=social)](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Application Development Framework (ADF) is set of Angular components with directives, pipes, and other interfaces. Should be treated as framework.
@@ -256,31 +284,3 @@
 ### Related community list
 
 -   [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - A curated list of awesome Web Components resources.
-
----
-
-## React Native
-
--   [Nachos UI](https://avocode.com/nachos-ui/) [![Repo Star](https://img.shields.io/github/stars/nachos-ui/nachos-ui.svg?label=&style=social)](https://github.com/nachos-ui/nachos-ui) - Customizable ready to use 30+ components which works with [React Native for Web](https://github.com/necolas/react-native-web)
--   [NativeBase](https://nativebase.io/) [![Repo Star](https://img.shields.io/github/stars/GeekyAnts/NativeBase.svg?label=&style=social)](https://github.com/GeekyAnts/NativeBase) - Essential cross-platform UI components for React Native. One of best in class for React Native Lovers. Recommended!
--   [React Native Android Kit](https://github.com/adbayb/react-native-android-kit) [![Repo Star](https://img.shields.io/github/stars/adbayb/react-native-android-kit.svg?label=&style=social)](https://github.com/adbayb/react-native-android-kit) - A set of native Android UI components and modules for React Native framework that are currently not implemented by React Native core team
--   [React Native Elements](https://react-native-training.github.io/react-native-elements) [![Repo Star](https://img.shields.io/github/stars/react-native-training/react-native-elements.svg?label=&style=social)](https://github.com/react-native-training/react-native-elements) - Cross Platform React Native UI Toolkit. Support for customisation and provides an all-in-one UI kit for creating apps in react native
--   [React Native Material Kit](http://xinthink.github.io/react-native-material-kit/) [![Repo Star](https://img.shields.io/github/stars/xinthink/react-native-material-kit.svg?label=&style=social)](https://github.com/xinthink/react-native-material-kit) - A set of UI components, in the purpose of introducing Material Design to apps built with React Native
--   [React Native Material UI](https://github.com/xotahal/react-native-material-ui) [![Repo Star](https://img.shields.io/github/stars/xotahal/react-native-material-ui.svg?label=&style=social)](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native. Demo for this toolkit can be seen [here](https://github.com/xotahal/react-native-material-ui/blob/master/docs/Demo.md)
--   [React Native Paper](https://callstack.github.io/react-native-paper/) [![Repo Star](https://img.shields.io/github/stars/callstack/react-native-paper.svg?label=&style=social)](https://github.com/callstack/react-native-paper) - Component with follows Material design guidelines v2.0, Better RTL Support and full theming options
--   [React Native UI Kitten](https://akveo.github.io/react-native-ui-kitten/#/home) [![Repo Star](https://img.shields.io/github/stars/akveo/react-native-ui-kitten.svg?label=&style=social)](https://github.com/akveo/react-native-ui-kitten) - Mobile framework with easily customizable elements which is able to create style configurations of components you use the most (buttons, inputs etc.)
--   [React Native UI Lib](https://wix.github.io/react-native-ui-lib/) [![Repo Star](https://img.shields.io/github/stars/wix/react-native-ui-lib.svg?label=&style=social)](https://github.com/wix/react-native-ui-lib) - UI Toolset & Components Library for React Native
--   [React Virgin](https://trixieapp.github.io/react-virgin/) [![Repo Star](https://img.shields.io/github/stars/Trixieapp/react-virgin.svg?label=&style=social)](https://github.com/Trixieapp/react-virgin) - UI kit with boiler plate for your React-Native projects
--   [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction) [![Repo Star](https://img.shields.io/github/stars/shoutem/ui.svg?label=&style=social)](https://github.com/shoutem/ui) - styleable components for React Native applications for iOS and Android. All of our components are built to be both composable and customizable.
-
-### Special use case libraries
-
--   [React Native Calendars](https://github.com/wix/react-native-calendars) [![Repo Star](https://img.shields.io/github/stars/wix/react-native-calendars.svg?label=&style=social)](https://github.com/wix/react-native-calendars) - various customizable react native calendar components.
--   [React Native Chart](https://github.com/tomauty/react-native-chart) [![Repo Star](https://img.shields.io/github/stars/tomauty/react-native-chart.svg?label=&style=social)](https://github.com/tomauty/react-native-chart) - Add line, area, pie, and bar charts to your React Native app
--   [React Native Circular Progress](https://github.com/bartgryszko/react-native-circular-progress) [![Repo Star](https://img.shields.io/github/stars/bartgryszko/react-native-circular-progress.svg?label=&style=social)](https://github.com/bartgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
--   [React Native Spinkit](https://github.com/maxs15/react-native-spinkit) [![Repo Star](https://img.shields.io/github/stars/maxs15/react-native-spinkit.svg?label=&style=social)](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
-
-### Related community list
-
--   [Native Directory](https://native.directory) - Native Directory is a curated list of React Native libraries to help you build your projects.
--   [Awesome React Native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
