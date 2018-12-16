@@ -257,7 +257,7 @@
 
 ## React Native
 
--
+-   [React Native Material Kit](http://xinthink.github.io/react-native-material-kit/) [![Repo Star](https://img.shields.io/github/stars/xinthink/react-native-material-kit.svg?label=&style=social)](https://github.com/xinthink/react-native-material-kit) - A set of UI components, in the purpose of introducing Material Design to apps built with React Native
 
 ### Related community list
 
