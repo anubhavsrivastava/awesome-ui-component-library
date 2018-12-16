@@ -270,6 +270,7 @@
 ### Special use case libraries
 
 -   [React Native Chart](https://github.com/tomauty/react-native-chart) [![Repo Star](https://img.shields.io/github/stars/tomauty/react-native-chart.svg?label=&style=social)](https://github.com/tomauty/react-native-chart) - Add line, area, pie, and bar charts to your React Native app
+-   [React Native Circular Progress](https://github.com/bartgryszko/react-native-circular-progress) [![Repo Star](https://img.shields.io/github/stars/bartgryszko/react-native-circular-progress.svg?label=&style=social)](https://github.com/bartgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 -   [React Native Spinkit](https://github.com/maxs15/react-native-spinkit) [![Repo Star](https://img.shields.io/github/stars/maxs15/react-native-spinkit.svg?label=&style=social)](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
 
 ### Related community list
