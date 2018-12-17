@@ -291,3 +291,11 @@
 ### Related community list
 
 -   [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - A curated list of awesome Web Components resources.
+
+---
+
+## Some Community conversations
+
+1. [What are some of the ui libraries you used?](https://www.reddit.com/r/reactjs/comments/9fhxj0/what_are_some_of_the_ui_libraries_you_used_for/)
+2. [Checked 21 react ui kits briefly, I'm done!](https://www.reddit.com/r/reactjs/comments/a6qhbr/checked_21_react_ui_kits_briefly_im_done/)
+3. [How many ui libraries is enough?](https://dev.to/rhymes/how-many-ui-libraries-is-enough-17om)
