@@ -300,6 +300,16 @@
 2. [Checked 21 react ui kits briefly, I'm done!](https://www.reddit.com/r/reactjs/comments/a6qhbr/checked_21_react_ui_kits_briefly_im_done/)
 3. [How many ui libraries is enough?](https://dev.to/rhymes/how-many-ui-libraries-is-enough-17om)
 
+---
+
+## Contribution
+
+Suggestions and PRs are welcome!
+
+Please read the [contribution guidelines](./contributing.md) to get started.
+
+---
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
