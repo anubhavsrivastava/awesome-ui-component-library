@@ -312,7 +312,7 @@
 
 Suggestions and PRs are welcome!
 
-Please read the [contribution guidelines](./contributing.md) to get started.
+Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ---
 
