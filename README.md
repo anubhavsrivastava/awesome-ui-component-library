@@ -172,6 +172,7 @@
 -   [VueBoot](http://morgul.github.io/vueboot/) [![Repo Star](https://img.shields.io/github/stars/Morgul/vueboot.svg?label=&style=social)](https://github.com/Morgul/vueboot) - Vuejs components and directives written using Bootstrap v4, leveraging the official Bootstrap JS.
 -   [Vuesax](https://lusaxweb.github.io/vuesax/) [![Repo Star](https://img.shields.io/github/stars/lusaxweb/vuesax.svg?label=&style=social)](https://github.com/lusaxweb/vuesax) - Vuesax is a library of Vuejs components that facilitates front-end development and streamlines work with great visual quality.
 -   [VueStrap](https://wffranco.github.io/vue-strap/) [![Repo Star](https://img.shields.io/github/stars/wffranco/vue-strap.svg?label=&style=social)](https://github.com/wffranco/vue-strap) - a set of native Vue.js components based on Bootstrap's markup and CSS. No dependency on jQuery or Bootstrap's JavaScript.
+-   [WDUI](https://wdfe.github.io/wdui) [![Repo Star](https://img.shields.io/github/stars/wdfe/wdui.svg?label=&style=social)](https://github.com/wdfe/wdui) - Lightweight mobile UI control library to quickly build an app layout based on Vue 2.0
 -   [Zircle UI](https://zircleui.github.io/docs/?utm_source=zircle) [![Repo Star](https://img.shields.io/github/stars/zircleUI/zircleUI.svg?label=&style=social)](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces
 
 ### Special use case libraries
