@@ -117,6 +117,7 @@
 
 -   [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 -   [Awesome React Component](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
+-   [libreact](https://github.com/streamich/libreact) [![Repo Star](https://img.shields.io/github/stars/streamich/libreact.svg?label=&style=social)](https://github.com/streamich/libreact) - Collection of useful React components
 
 ---
 
