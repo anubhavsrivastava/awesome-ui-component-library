@@ -319,6 +319,7 @@
 ## Styleguides
 
 -   [awesome-styleguides](https://github.com/streamich/awesome-styleguides) A curated list of UI styleguides
+-   [styleguides.io](http://styleguides.io/) - Website Style Guide Resources
 
 ---
 
