@@ -320,6 +320,7 @@
 
 -   [awesome-styleguides](https://github.com/streamich/awesome-styleguides) A curated list of UI styleguides
 -   [styleguides.io](http://styleguides.io/) - Website Style Guide Resources
+-   [Design Systems Gallery](https://designsystemsrepo.com/design-systems/) - A comprehensive and curated list of design systems, style guides and pattern libraries that you can use for inspiration.
 
 ---
 
