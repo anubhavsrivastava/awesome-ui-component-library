@@ -10,29 +10,29 @@
 
 <!-- toc -->
 
-- [React](#react)
-  * [Special use case libraries](#special-use-case-libraries)
-  * [Related community list](#related-community-list)
-- [VueJS](#vuejs)
-  * [Special use case libraries](#special-use-case-libraries-1)
-  * [Related community list](#related-community-list-1)
-- [React Native](#react-native)
-  * [Special use case libraries](#special-use-case-libraries-2)
-  * [Related community list](#related-community-list-2)
-- [Angular](#angular)
-  * [Special use case libraries](#special-use-case-libraries-3)
-  * [Related community list](#related-community-list-3)
-- [EmberJS](#emberjs)
-  * [Special use case libraries](#special-use-case-libraries-4)
-  * [Related community list](#related-community-list-4)
-- [Mithril](#mithril)
-  * [Related community list](#related-community-list-5)
-- [Web Components](#web-components)
-  * [Related community list](#related-community-list-6)
-- [Some Community conversations](#some-community-conversations)
-- [Styleguides](#styleguides)
-- [Contribution](#contribution)
-- [License](#license)
+-   [React](#react)
+    -   [Special use case libraries](#special-use-case-libraries)
+    -   [Related community list](#related-community-list)
+-   [VueJS](#vuejs)
+    -   [Special use case libraries](#special-use-case-libraries-1)
+    -   [Related community list](#related-community-list-1)
+-   [React Native](#react-native)
+    -   [Special use case libraries](#special-use-case-libraries-2)
+    -   [Related community list](#related-community-list-2)
+-   [Angular](#angular)
+    -   [Special use case libraries](#special-use-case-libraries-3)
+    -   [Related community list](#related-community-list-3)
+-   [EmberJS](#emberjs)
+    -   [Special use case libraries](#special-use-case-libraries-4)
+    -   [Related community list](#related-community-list-4)
+-   [Mithril](#mithril)
+    -   [Related community list](#related-community-list-5)
+-   [Web Components](#web-components)
+    -   [Related community list](#related-community-list-6)
+-   [Some Community conversations](#some-community-conversations)
+-   [Styleguides](#styleguides)
+-   [Contribution](#contribution)
+-   [License](#license)
 
 <!-- tocstop -->
 
@@ -46,6 +46,7 @@
 -   [Atlaskit](https://atlaskit.atlassian.com/) - Atlasssian’s official React UI kit is the technical implementation of the Atlassian Design Guidelines (ADG)
 -   [Base UI](https://baseui.netlify.com) [![Repo Star](https://img.shields.io/github/stars/uber-web/baseui.svg?label=&style=social)](https://github.com/uber-web/baseui) - A React Component library implementing the Base UI design
 -   [Belle](http://nikgraf.github.io/) [![Repo Star](https://img.shields.io/github/stars/nikgraf/belle.svg?label=&style=social)](https://github.com/nikgraf/belle/) - A set of React components optimized for mobile & desktop with highly customizable styles which can be configured on the base level as well individually for each one of them.
+-   [Bloom](https://bloom.appearhere.co.uk) [![Repo Star](https://img.shields.io/github/stars/appearhere/bloom.svg?label=&style=social)](https://github.com/appearhere/bloom) - Bloom acts as a central repository for reuseable React components and common styles for AppearHere. It is bootstrapped with create-react-app.
 -   [Blue](https://helpscout.gitbook.io/hsds-react/) [![Repo Star](https://img.shields.io/github/stars/helpscout/hsds-react.svg?label=&style=social)](https://github.com/helpscout/hsds-react) - React components for Help Scout's Design System
 -   [Blueprint](https://blueprintjs.com/) [![Repo Star](https://img.shields.io/github/stars/palantir/blueprint.svg?label=&style=social)](https://github.com/palantir/blueprint) - A React-based UI toolkit for building complex, data-dense web interfaces for desktop applications.
 -   [Buttercup UI](https://buttercup.pw/) [![Repo Star](https://img.shields.io/github/stars/buttercup/ui.svg?label=&style=social)](https://github.com/buttercup/ui) - React UI Components used in Buttercup products
