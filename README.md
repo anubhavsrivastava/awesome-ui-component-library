@@ -275,6 +275,7 @@
 -   [Ember Components](http://indexiatech.github.io/ember-components) [![Repo Star](https://img.shields.io/github/stars/indexiatech/ember-components.svg?label=&style=social)](https://github.com/indexiatech/ember-components) - This project aims to be the successor of [Bootstrap for Ember](https://github.com/ember-addons/bootstrap-for-ember) project as all components on this suite are not bound to any specific CSS framework.
 -   [SL Ember Components](http://softlayer.github.io/sl-ember-components/) [![Repo Star](https://img.shields.io/github/stars/softlayer/sl-ember-components.svg?label=&style=social)](https://github.com/softlayer/sl-ember-components) - An Ember CLI Addon that provides a variety of UI components.
 -   [Ember Material Design](http://mike1234.com/ember-material-design) [![Repo Star](https://img.shields.io/github/stars/mike1o1/ember-material-design.svg?label=&style=social)](https://github.com/mike1o1/ember-material-design) - Implementation of Material Design in EmberJS
+-   [Ember Bootstrap](https://www.ember-bootstrap.com/) [![Repo Star](https://img.shields.io/github/stars/kaliber5/ember-bootstrap.svg?label=&style=social)](https://github.com/kaliber5/ember-bootstrap/) - Ember-cli addon for using Bootstrap as native Ember components
 
 ### Special use case libraries
 
