@@ -2,7 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of framework component libraries for UI styles/toolkit
+> Curated list of framework component libraries for UI styles/toolkit/design systems
+
+Design System - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 
 `This list doesn't include individual component libraries like button, select, forms, etc`
 
