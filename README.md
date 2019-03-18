@@ -12,29 +12,30 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 <!-- toc -->
 
--   [React](#react)
-    -   [Special use case libraries](#special-use-case-libraries)
-    -   [Related community list](#related-community-list)
--   [VueJS](#vuejs)
-    -   [Special use case libraries](#special-use-case-libraries-1)
-    -   [Related community list](#related-community-list-1)
--   [React Native](#react-native)
-    -   [Special use case libraries](#special-use-case-libraries-2)
-    -   [Related community list](#related-community-list-2)
--   [Angular](#angular)
-    -   [Special use case libraries](#special-use-case-libraries-3)
-    -   [Related community list](#related-community-list-3)
--   [EmberJS](#emberjs)
-    -   [Special use case libraries](#special-use-case-libraries-4)
-    -   [Related community list](#related-community-list-4)
--   [Mithril](#mithril)
-    -   [Related community list](#related-community-list-5)
--   [Web Components](#web-components)
-    -   [Related community list](#related-community-list-6)
--   [Some Community conversations](#some-community-conversations)
--   [Styleguides](#styleguides)
--   [Contribution](#contribution)
--   [License](#license)
+- [React](#react)
+  * [Special use case libraries](#special-use-case-libraries)
+  * [Tools](#tools)
+  * [Related community list](#related-community-list)
+- [VueJS](#vuejs)
+  * [Special use case libraries](#special-use-case-libraries-1)
+  * [Related community list](#related-community-list-1)
+- [React Native](#react-native)
+  * [Special use case libraries](#special-use-case-libraries-2)
+  * [Related community list](#related-community-list-2)
+- [Angular](#angular)
+  * [Special use case libraries](#special-use-case-libraries-3)
+  * [Related community list](#related-community-list-3)
+- [EmberJS](#emberjs)
+  * [Special use case libraries](#special-use-case-libraries-4)
+  * [Related community list](#related-community-list-4)
+- [Mithril](#mithril)
+  * [Related community list](#related-community-list-5)
+- [Web Components](#web-components)
+  * [Related community list](#related-community-list-6)
+- [Some Community conversations](#some-community-conversations)
+- [Styleguides](#styleguides)
+- [Contribution](#contribution)
+- [License](#license)
 
 <!-- tocstop -->
 
@@ -137,6 +138,10 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [React Virtualized](https://bvaughn.github.io/react-virtualized/) [![Repo Star](https://img.shields.io/github/stars/bvaughn/react-virtualized.svg?label=&style=social)](https://github.com/bvaughn/react-virtualized) - React components for virtualizing large data sets for efficiently rendering lists and tabular data
 -   [Styled Icons](https://styled-icons.js.org/) [![Repo Star](https://img.shields.io/github/stars/jacobwgillespie/styled-icons.svg?label=&style=social)](https://github.com/jacobwgillespie/styled-icons) - Font Awesome, Feather, Material Design, and Octicons icon packs as Styled Components
 -   `[Paid]` [ag-grid](https://www.ag-grid.com/) - Cross platform components for Grid/Tables
+
+### Tools
+
+[react-sketchapp](http://airbnb.io/react-sketchapp/) [![Repo Star](https://img.shields.io/github/stars/airbnb/react-sketchapp.svg?label=&style=social)](https://github.com/airbnb/react-sketchapp) — render React components to Sketch; tailor-made for design systems
 
 ### Related community list
 
