@@ -12,30 +12,30 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 <!-- toc -->
 
-- [React](#react)
-  * [Special use case libraries](#special-use-case-libraries)
-  * [Tools](#tools)
-  * [Related community list](#related-community-list)
-- [VueJS](#vuejs)
-  * [Special use case libraries](#special-use-case-libraries-1)
-  * [Related community list](#related-community-list-1)
-- [React Native](#react-native)
-  * [Special use case libraries](#special-use-case-libraries-2)
-  * [Related community list](#related-community-list-2)
-- [Angular](#angular)
-  * [Special use case libraries](#special-use-case-libraries-3)
-  * [Related community list](#related-community-list-3)
-- [EmberJS](#emberjs)
-  * [Special use case libraries](#special-use-case-libraries-4)
-  * [Related community list](#related-community-list-4)
-- [Mithril](#mithril)
-  * [Related community list](#related-community-list-5)
-- [Web Components](#web-components)
-  * [Related community list](#related-community-list-6)
-- [Some Community conversations](#some-community-conversations)
-- [Styleguides](#styleguides)
-- [Contribution](#contribution)
-- [License](#license)
+-   [React](#react)
+    -   [Special use case libraries](#special-use-case-libraries)
+    -   [Tools](#tools)
+    -   [Related community list](#related-community-list)
+-   [VueJS](#vuejs)
+    -   [Special use case libraries](#special-use-case-libraries-1)
+    -   [Related community list](#related-community-list-1)
+-   [React Native](#react-native)
+    -   [Special use case libraries](#special-use-case-libraries-2)
+    -   [Related community list](#related-community-list-2)
+-   [Angular](#angular)
+    -   [Special use case libraries](#special-use-case-libraries-3)
+    -   [Related community list](#related-community-list-3)
+-   [EmberJS](#emberjs)
+    -   [Special use case libraries](#special-use-case-libraries-4)
+    -   [Related community list](#related-community-list-4)
+-   [Mithril](#mithril)
+    -   [Related community list](#related-community-list-5)
+-   [Web Components](#web-components)
+    -   [Related community list](#related-community-list-6)
+-   [Some Community conversations](#some-community-conversations)
+-   [Styleguides](#styleguides)
+-   [Contribution](#contribution)
+-   [License](#license)
 
 <!-- tocstop -->
 
@@ -352,7 +352,6 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Styleguides
 
--   [awesome-styleguides](https://github.com/streamich/awesome-styleguides) A curated list of UI styleguides
 -   [styleguides.io](http://styleguides.io/) - Website Style Guide Resources
 -   [Design Systems Gallery](https://designsystemsrepo.com/design-systems/) - A comprehensive and curated list of design systems, style guides and pattern libraries that you can use for inspiration.
 
