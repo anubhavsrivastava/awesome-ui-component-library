@@ -12,7 +12,6 @@ if (!arguments.length) {
 	console.log('Need a GITHUB repo URL problem URL; eg. https://github.com/anubhavsrivastava/leetcodeJS ');
 	process.exit(0);
 }
-let leetCodeProblemURL = arguments[0];
 
 var repoURL = arguments[0];
 repoURL = repoURL.replace('https://github.com/', '');
