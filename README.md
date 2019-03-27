@@ -8,6 +8,8 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 `This list doesn't include individual component libraries like button, select, forms, etc`
 
+Related List - [Awesome UX Designs](https://github.com/anubhavsrivastava/awesome-ux-design-styles)
+
 ## Contents
 
 <!-- toc -->
@@ -357,6 +359,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Styleguides
 
+-   [Awesome UX Designs](https://github.com/anubhavsrivastava/awesome-ux-design-styles)
 -   [styleguides.io](http://styleguides.io/) - Website Style Guide Resources
 -   [Design Systems Gallery](https://designsystemsrepo.com/design-systems/) - A comprehensive and curated list of design systems, style guides and pattern libraries that you can use for inspiration.
 
