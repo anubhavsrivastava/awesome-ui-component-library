@@ -8,7 +8,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 `This list doesn't include individual component libraries like button, select, forms, etc`
 
-Related List - [Awesome UX Designs](https://github.com/anubhavsrivastava/awesome-ux-design-styles)
+### Related List - [Awesome UX Designs](https://github.com/anubhavsrivastava/awesome-ux-design-styles)
 
 ## Contents
 
