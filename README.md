@@ -371,7 +371,7 @@ Suggestions and PRs are welcome!
 
 Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
 
----
+[![HitCount](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library.svg)](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library)
 
 ## License
 
