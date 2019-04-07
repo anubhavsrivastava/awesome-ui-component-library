@@ -163,6 +163,8 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ### Tools
 
+[Bit](https://github.com/teambit/bit) [![Repo Star](https://img.shields.io/github/stars/teambit/bit.svg?label=&style=social)](teambit/bitp) — End-to-end component sharing and mangmanet. It takes care of component development and publishing in your library (automatic dependency resolution, versioning etc), making each of them individually useful to consume and develop anywhere, so teams can manage and share components at scale.
+
 [react-sketchapp](http://airbnb.io/react-sketchapp/) [![Repo Star](https://img.shields.io/github/stars/airbnb/react-sketchapp.svg?label=&style=social)](https://github.com/airbnb/react-sketchapp) — render React components to Sketch; tailor-made for design systems
 
 ### Related community list
