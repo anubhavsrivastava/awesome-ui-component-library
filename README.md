@@ -1,5 +1,8 @@
 # Awesome UI component library
 
+[![HitCount](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library.svg)](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of framework component libraries for UI styles/toolkit/design systems
@@ -370,8 +373,6 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 Suggestions and PRs are welcome!
 
 Please read the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-[![HitCount](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library.svg)](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library)
 
 ## License
 
