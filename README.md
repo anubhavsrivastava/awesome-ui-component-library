@@ -2,6 +2,7 @@
 
 [![HitCount](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library.svg)](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Contributors](https://badgen.net/github/contributors/anubhavsrivastava/awesome-ui-component-library)](https://github.com/anubhavsrivastava/awesome-ui-component-library/graphs/contributors)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
