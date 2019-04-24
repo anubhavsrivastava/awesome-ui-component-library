@@ -146,6 +146,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Zent](https://youzan.github.io/zent/en/guides/install) [![Repo Star](https://img.shields.io/github/stars/youzan/zent.svg?label=&style=social)](https://github.com/youzan/zent) - Zent is a React component library developed and used at Youzan with more than 50 components for now.
 -   [Zero-UI](https://alphago88.github.io/Zero-UI/) [![Repo Star](https://img.shields.io/github/stars/AlphaGo88/Zero-UI.svg?label=&style=social)](https://github.com/AlphaGo88/Zero-UI) - Zero-UI is an easy-to-use web UI component framework which includes a set of useful components.
 -   [ZHUI](https://zhui-team.github.io/zhui/) [![Repo Star](https://img.shields.io/github/stars/zhui-team/zhui.svg?label=&style=social)](https://github.com/zhui-team/zhui) - A Chinese style component library powered by React
+-   `[Paid]`[Essential JS 2 for React by Syncfusion](https://www.syncfusion.com/react-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for React.
 -   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) [![Repo Star](https://img.shields.io/github/stars/sencha/ext-react.svg?label=&style=social)](https://github.com/sencha/ext-react) - 115+ pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
 -   `[Paid]`[jQWidgets](https://www.jqwidgets.com/react/) - React components based on jqwidgets.
 -   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-react-ui/) - UI Component based on kendo UI toolkit.
@@ -236,6 +237,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [VueStrap](https://wffranco.github.io/vue-strap/) [![Repo Star](https://img.shields.io/github/stars/wffranco/vue-strap.svg?label=&style=social)](https://github.com/wffranco/vue-strap) - a set of native Vue.js components based on Bootstrap's markup and CSS. No dependency on jQuery or Bootstrap's JavaScript.
 -   [WDUI](https://wdfe.github.io/wdui) [![Repo Star](https://img.shields.io/github/stars/wdfe/wdui.svg?label=&style=social)](https://github.com/wdfe/wdui) - Lightweight mobile UI control library to quickly build an app layout based on Vue 2.0
 -   [Zircle UI](https://zircleui.github.io/docs/?utm_source=zircle) [![Repo Star](https://img.shields.io/github/stars/zircleUI/zircleUI.svg?label=&style=social)](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces
+-   `[Paid]`[Essential JS 2 for Vue by Syncfusion](https://www.syncfusion.com/vue-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Vue.
 
 ### Special use case libraries
 
@@ -309,6 +311,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Prime NG](https://www.primefaces.org/primeng/#/) [![Repo Star](https://img.shields.io/github/stars/primefaces/primeng.svg?label=&style=social)](https://github.com/primefaces/primeng) - This project which provides a rich and unique selection of over 60 UI components with multiple themes
 -   [Primer Components](https://primer.style/components) [![Repo Star](https://img.shields.io/github/stars/primer/components.svg?label=&style=social)](https://github.com/primer/components) - React components for the [Primer Design System](https://primer.style/)
 -   [Semantic UI Angular](https://github.com/Semantic-Org/Semantic-UI-Angular) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-Angular.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-Angular) - Semantic UI Angular is the official Angular integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations.
+-   `[Paid]`[Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
 
 ### Special use case libraries
 
