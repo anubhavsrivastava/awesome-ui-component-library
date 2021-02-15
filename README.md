@@ -152,7 +152,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   `[Paid]`[Essential JS 2 for React by Syncfusion](https://www.syncfusion.com/react-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for React.
 -   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) [![Repo Star](https://img.shields.io/github/stars/sencha/ext-react.svg?label=&style=social)](https://github.com/sencha/ext-react) - 115+ pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
 -   `[Paid]`[jQWidgets](https://www.jqwidgets.com/react/) - React components based on jqwidgets.
--   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-react-ui/) - UI Component based on kendo UI toolkit.
+-   `[Paid]`[KendoReact](https://www.telerik.com/kendo-react-ui/) - 90+ professional UI components built from the ground up for React - responsive, accessible and feature rich.
 -   `[Paid]`[Mobiscroll](https://mobiscroll.com/react) - React components for Mobile UI Controls.
 -   `[Paid]`[Wijmo React](https://www.grapecity.com/en/react/) - React components for Wizmo Toolkit from grapeCity.
 
@@ -243,11 +243,11 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [WDUI](https://wdfe.github.io/wdui) [![Repo Star](https://img.shields.io/github/stars/wdfe/wdui.svg?label=&style=social)](https://github.com/wdfe/wdui) - Lightweight mobile UI control library to quickly build an app layout based on Vue 2.0
 -   [Zircle UI](https://zircleui.github.io/docs/?utm_source=zircle) [![Repo Star](https://img.shields.io/github/stars/zircleUI/zircleUI.svg?label=&style=social)](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces
 -   `[Paid]`[Essential JS 2 for Vue by Syncfusion](https://www.syncfusion.com/vue-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Vue.
+-   `[Paid]`[Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui) -  A suite of UI components focused on business applications, with components like the data grid
 
 ### Special use case libraries
 
 -   [Epic Spinners](https://epic-spinners.epicmax.co/#/) [![Repo Star](https://img.shields.io/github/stars/epicmaxco/epic-spinners.svg?label=&style=social)](https://github.com/epicmaxco/epic-spinners) - Reusable Vue components for spinners
--   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-vue-ui) - UI Component based on kendo UI toolkit.
 -   `[Paid]`[jQWidgets](https://www.jqwidgets.com/vue-js-ui-components-for-jqwidgets/) - Vue components based on jqwidgets.
 
 ### Related community list
