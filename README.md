@@ -51,7 +51,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 -   [Amaze UI](http://amazeui.org/react/) [![Repo Star](https://img.shields.io/github/stars/amazeui/amazeui-react.svg?label=&style=social)](https://github.com/amazeui/amazeui-react) - React components based on [AmazeUI](http://amazeui.org/)
 -   [Amaze UI Touch](http://t.amazeui.org) [![Repo Star](https://img.shields.io/github/stars/amazeui/amazeui-touch.svg?label=&style=social)](https://github.com/amazeui/amazeui-touch/) - React.js-based mobile web component library
--   [ARWES](https://arwesjs.org/) [![Repo Star](https://img.shields.io/github/stars/arwesjs/arwes.svg?label=&style=social)](https://github.com/arwesjs/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
+-   [ARWES](https://arwes.dev/) [![Repo Star](https://img.shields.io/github/stars/arwesjs/arwes.svg?label=&style=social)](https://github.com/arwesjs/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
 -   [Ant Design React](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React-based implementation. Ant-design Pro is available [here](https://github.com/ant-design/ant-design-pro)
 -   [Atlaskit](https://atlaskit.atlassian.com/) - Atlasssian’s official React UI kit is the technical implementation of the Atlassian Design Guidelines (ADG)
 -   [Backpack](https://backpack.github.io/components) [![Repo Star](https://img.shields.io/github/stars/Skyscanner/backpack.svg?label=&style=social)](https://github.com/Skyscanner/backpack) - Backpack Design System used to build skyscanner products
@@ -152,7 +152,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   `[Paid]`[Essential JS 2 for React by Syncfusion](https://www.syncfusion.com/react-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for React.
 -   `[Paid]`[ExtReact](https://www.sencha.com/products/extreact/) [![Repo Star](https://img.shields.io/github/stars/sencha/ext-react.svg?label=&style=social)](https://github.com/sencha/ext-react) - 115+ pre-built UI components that are fully supported and designed to interact and work together, from Sencha UI
 -   `[Paid]`[jQWidgets](https://www.jqwidgets.com/react/) - React components based on jqwidgets.
--   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-react-ui/) - UI Component based on kendo UI toolkit.
+-   `[Paid]`[KendoReact](https://www.telerik.com/kendo-react-ui/) - 90+ professional UI components built from the ground up for React - responsive, accessible and feature rich.
 -   `[Paid]`[Mobiscroll](https://mobiscroll.com/react) - React components for Mobile UI Controls.
 -   `[Paid]`[Wijmo React](https://www.grapecity.com/en/react/) - React components for Wizmo Toolkit from grapeCity.
 -   [React tsParticles](https://github.com/matteobruni/tsparticles) - React component for easily add fully customizable particles animations to websites and web applications
@@ -165,6 +165,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [React CSS Loaders](https://lucasbassetti.com.br/react-css-loaders/) [![Repo Star](https://img.shields.io/github/stars/LucasBassetti/react-css-loaders.svg?label=&style=social)](https://github.com/LucasBassetti/react-css-loaders) - A collection of pure CSS React loading components
 -   [React Epic Spinners](https://bondz.github.io/react-epic-spinners/) [![Repo Star](https://img.shields.io/github/stars/bondz/react-epic-spinners.svg?label=&style=social)](https://github.com/bondz/react-epic-spinners) - Reusable react components for spinners
 -   [React Virtualized](https://bvaughn.github.io/react-virtualized/) [![Repo Star](https://img.shields.io/github/stars/bvaughn/react-virtualized.svg?label=&style=social)](https://github.com/bvaughn/react-virtualized) - React components for virtualizing large data sets for efficiently rendering lists and tabular data
+-   [ReactGrid](https://reactgrid.com/) [![Repo Star](https://img.shields.io/github/stars/silevis/reactgrid.svg?label=&style=social)](https://github.com/silevis/reactgrid) - Add spreadsheet-like behavior to your React app
 -   [Styled Icons](https://styled-icons.js.org/) [![Repo Star](https://img.shields.io/github/stars/jacobwgillespie/styled-icons.svg?label=&style=social)](https://github.com/jacobwgillespie/styled-icons) - Font Awesome, Feather, Material Design, and Octicons icon packs as Styled Components
 -   `[Paid]` [ag-grid](https://www.ag-grid.com/) - Cross platform components for Grid/Tables
 
@@ -244,11 +245,11 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Zircle UI](https://zircleui.github.io/docs/?utm_source=zircle) [![Repo Star](https://img.shields.io/github/stars/zircleUI/zircleUI.svg?label=&style=social)](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces
 -   `[Paid]`[Essential JS 2 for Vue by Syncfusion](https://www.syncfusion.com/vue-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Vue.
 -   [Particles.vue](https://github.com/matteobruni/tsparticles) - Vue library for easily add fully customizable particles animations to websites and web applications.
+-   `[Paid]`[Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui) -  A suite of UI components focused on business applications, with components like the data grid
 
 ### Special use case libraries
 
 -   [Epic Spinners](https://epic-spinners.epicmax.co/#/) [![Repo Star](https://img.shields.io/github/stars/epicmaxco/epic-spinners.svg?label=&style=social)](https://github.com/epicmaxco/epic-spinners) - Reusable Vue components for spinners
--   `[Paid]`[Kendo ui](https://www.telerik.com/kendo-vue-ui) - UI Component based on kendo UI toolkit.
 -   `[Paid]`[jQWidgets](https://www.jqwidgets.com/vue-js-ui-components-for-jqwidgets/) - Vue components based on jqwidgets.
 
 ### Related community list
