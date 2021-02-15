@@ -155,6 +155,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   `[Paid]`[KendoReact](https://www.telerik.com/kendo-react-ui/) - 90+ professional UI components built from the ground up for React - responsive, accessible and feature rich.
 -   `[Paid]`[Mobiscroll](https://mobiscroll.com/react) - React components for Mobile UI Controls.
 -   `[Paid]`[Wijmo React](https://www.grapecity.com/en/react/) - React components for Wizmo Toolkit from grapeCity.
+-   [React tsParticles](https://github.com/matteobruni/tsparticles) - React component for easily add fully customizable particles animations to websites and web applications
 
 ### Special use case libraries
 
@@ -243,6 +244,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [WDUI](https://wdfe.github.io/wdui) [![Repo Star](https://img.shields.io/github/stars/wdfe/wdui.svg?label=&style=social)](https://github.com/wdfe/wdui) - Lightweight mobile UI control library to quickly build an app layout based on Vue 2.0
 -   [Zircle UI](https://zircleui.github.io/docs/?utm_source=zircle) [![Repo Star](https://img.shields.io/github/stars/zircleUI/zircleUI.svg?label=&style=social)](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces
 -   `[Paid]`[Essential JS 2 for Vue by Syncfusion](https://www.syncfusion.com/vue-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Vue.
+-   [Particles.vue](https://github.com/matteobruni/tsparticles) - Vue library for easily add fully customizable particles animations to websites and web applications.
 -   `[Paid]`[Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui) -  A suite of UI components focused on business applications, with components like the data grid
 
 ### Special use case libraries
@@ -318,6 +320,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Primer Components](https://primer.style/components) [![Repo Star](https://img.shields.io/github/stars/primer/components.svg?label=&style=social)](https://github.com/primer/components) - React components for the [Primer Design System](https://primer.style/)
 -   [Semantic UI Angular](https://github.com/Semantic-Org/Semantic-UI-Angular) [![Repo Star](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-Angular.svg?label=&style=social)](https://github.com/Semantic-Org/Semantic-UI-Angular) - Semantic UI Angular is the official Angular integration for Semantic UI.It’s used by Netflix, Amazon and other major organizations.
 -   `[Paid]`[Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
+-   [NG Particles](https://github.com/matteobruni/tsparticles) - Angular component for easily add fully customizable particles animations to websites and web applications
 
 ### Special use case libraries
 
