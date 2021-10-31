@@ -374,9 +374,20 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Vaadin components](https://github.com/vaadin/vaadin) [![Repo Star](https://img.shields.io/github/stars/vaadin/vaadin.svg?label=&style=social)](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications
 -   [Wired Elements](https://github.com/wiredjs/wired-elements) [![Repo Star](https://img.shields.io/github/stars/wiredjs/wired-elements.svg?label=&style=social)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 
+
 ### Related community list
 
 -   [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - A curated list of awesome Web Components resources.
+
+---
+
+## A11y Components
+
+-   [a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
+-   [a11y-tabs](https://github.com/agnosticui/a11y-tabs) -  A lightweight (<1Kb) JavaScript package to facilitate a11y-compliant tabbed interfaces.
+-   [a11y-menu](https://aberkow.github.io/a11y-menu/) — This project aims to create a re-useable and accessible main navigation module.
+-   [Scott Ohara's a11y components](https://github.com/scottaohara/accessible_components) — Listing of accessible components & patterns.
+-   [Deque Cauldron](https://pattern-library.dequelabs.com/) — A fullyaccessibleHTML, CSS, and Javascript front-end framework for creating web and mobile applications.
 
 ---
 
