@@ -374,7 +374,6 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Vaadin components](https://github.com/vaadin/vaadin) [![Repo Star](https://img.shields.io/github/stars/vaadin/vaadin.svg?label=&style=social)](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications
 -   [Wired Elements](https://github.com/wiredjs/wired-elements) [![Repo Star](https://img.shields.io/github/stars/wiredjs/wired-elements.svg?label=&style=social)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 
-
 ### Related community list
 
 -   [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - A curated list of awesome Web Components resources.
