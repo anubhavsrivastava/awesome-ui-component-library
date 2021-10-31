@@ -380,6 +380,17 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ---
 
+## A11y Components
+
+-   [a11y-contrast](https://github.com/darekkay/a11y-contrast) — A CLI utility to calculate/verify accessible magic numbers for a color palette.
+-   [a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
+-   [a11y-tabs](https://github.com/agnosticui/a11y-tabs) -  A lightweight (<1Kb) JavaScript package to facilitate a11y-compliant tabbed interfaces.
+-   [a11y-menu](https://aberkow.github.io/a11y-menu/) — This project aims to create a re-useable and accessible main navigation module.
+-   [Scott Ohara's a11y components](https://github.com/scottaohara/accessible_components) — Listing of accessible components & patterns.
+-   [Deque Cauldron](https://pattern-library.dequelabs.com/) — A fullyaccessibleHTML, CSS, and Javascript front-end framework for creating web and mobile applications.
+
+---
+
 ## Some Community conversations
 
 1. [What are some of the ui libraries you used?](https://www.reddit.com/r/reactjs/comments/9fhxj0/what_are_some_of_the_ui_libraries_you_used_for/)
