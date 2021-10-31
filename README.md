@@ -382,6 +382,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## A11y Components
 
+-   [a11y-contrast](https://github.com/darekkay/a11y-contrast) — A CLI utility to calculate/verify accessible magic numbers for a color palette.
 -   [a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 -   [a11y-tabs](https://github.com/agnosticui/a11y-tabs) -  A lightweight (<1Kb) JavaScript package to facilitate a11y-compliant tabbed interfaces.
 -   [a11y-menu](https://aberkow.github.io/a11y-menu/) — This project aims to create a re-useable and accessible main navigation module.
