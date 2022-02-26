@@ -48,7 +48,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 ---
 
 ## React
-
+-   [AgnosticUI](https://www.agnosticui.com/) - Accessible React Component Primitives (that also work with Svelte, Vue 3, and Angular).
 -   [Amaze UI](http://amazeui.org/react/) [![Repo Star](https://img.shields.io/github/stars/amazeui/amazeui-react.svg?label=&style=social)](https://github.com/amazeui/amazeui-react) - React components based on [AmazeUI](http://amazeui.org/)
 -   [Amaze UI Touch](http://t.amazeui.org) [![Repo Star](https://img.shields.io/github/stars/amazeui/amazeui-touch.svg?label=&style=social)](https://github.com/amazeui/amazeui-touch/) - React.js-based mobile web component library
 -   [ARWES](https://arwes.dev/) [![Repo Star](https://img.shields.io/github/stars/arwesjs/arwes.svg?label=&style=social)](https://github.com/arwesjs/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
@@ -185,6 +185,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## VueJS
 
+-   [AgnosticUI](https://www.agnosticui.com/) - Accessible Vue 3 Component Primitives (that also work with Svelte, React, and Angular).
 -   [AT-UI](https://at.aotu.io/) [![Repo Star](https://img.shields.io/github/stars/at-ui/at-ui.svg?label=&style=social)](https://github.com/at-ui/at-ui) - A fresh and flat UI-Kit specially for desktop application
 -   [BalmUI](https://material.balmjs.com/#/) [![Repo Star](https://img.shields.io/github/stars/balmjs/ui-vue.svg?label=&style=social)](https://github.com/balmjs/ui-vue) - Next Generation Material UI for Vue.js
 -   [Bootstrap Vue](https://bootstrap-vue.js.org/) [![Repo Star](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue.svg?label=&style=social)](https://github.com/bootstrap-vue/bootstrap-vue) - comprehensive implementations of Bootstrap 4 components and grid system for Vue.js and with extensive and automated WAI-ARIA accessibility markup.
@@ -297,6 +298,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Angular
 
+-   [AgnosticUI](https://www.agnosticui.com/) - Accessible Angular Component Primitives (that also work with Svelte, React, and Vue 3).
 -   [Alfresco](https://alfresco.github.io/adf-component-catalog/) [![Repo Star](https://img.shields.io/github/stars/Alfresco/alfresco-ng2-components.svg?label=&style=social)](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Application Development Framework (ADF) is set of Angular components with directives, pipes, and other interfaces. Should be treated as framework.
 -   [Alyle UI](https://alyle-ui.firebaseapp.com/) [![Repo Star](https://img.shields.io/github/stars/A-l-y-l-e/Alyle-UI.svg?label=&style=social)](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular.
 -   [AT Angular UI](http://ng-at.thunderjava.com/) [![Repo Star](https://img.shields.io/github/stars/100cm/at-ui-angular.svg?label=&style=social)](https://github.com/100cm/at-ui-angular) - Angular 4.0+ front-end UI component library based on the rapid development of back-end products in PC websites.
@@ -387,6 +389,9 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 -   [a11y-contrast](https://github.com/darekkay/a11y-contrast) — A CLI utility to calculate/verify accessible magic numbers for a color palette.
 -   [a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
+-   [react-a11y-dialog](https://github.com/KittyGiraudel/react-a11y-dialog) - Port of a11y-dialog to React.
+-   [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) - Port of a11y-dialog to Vue.
+-   [svelte-a11y-dialog](https://github.com/AgnosticUI/svelte-a11y-dialog) - Port of a11y-dialog to Svelte.
 -   [a11y-tabs](https://github.com/agnosticui/a11y-tabs) -  A lightweight (<1Kb) JavaScript package to facilitate a11y-compliant tabbed interfaces.
 -   [a11y-menu](https://aberkow.github.io/a11y-menu/) — This project aims to create a re-useable and accessible main navigation module.
 -   [Scott Ohara's a11y components](https://github.com/scottaohara/accessible_components) — Listing of accessible components & patterns.
