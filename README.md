@@ -248,6 +248,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   `[Paid]`[Essential JS 2 for Vue by Syncfusion](https://www.syncfusion.com/vue-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Vue.
 -   [Particles.vue](https://github.com/matteobruni/tsparticles) - Vue library for easily add fully customizable particles animations to websites and web applications.
 -   `[Paid]`[Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui) -  A suite of UI components focused on business applications, with components like the data grid
+-   [vue-file-upload](https://github.com/canopas/web-file-upload/vue) - A file management system built that allows for single and multiple file uploading with a preview feature
 
 ### Special use case libraries
 
