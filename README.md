@@ -169,6 +169,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [ReactGrid](https://reactgrid.com/) [![Repo Star](https://img.shields.io/github/stars/silevis/reactgrid.svg?label=&style=social)](https://github.com/silevis/reactgrid) - Add spreadsheet-like behavior to your React app
 -   [Styled Icons](https://styled-icons.js.org/) [![Repo Star](https://img.shields.io/github/stars/jacobwgillespie/styled-icons.svg?label=&style=social)](https://github.com/jacobwgillespie/styled-icons) - Font Awesome, Feather, Material Design, and Octicons icon packs as Styled Components
 -   `[Paid]` [ag-grid](https://www.ag-grid.com/) - Cross platform components for Grid/Tables
+-   `[Paid]` [Get Data Den](https://getdataden.com/) - Plugin that extends your projects functionality with a table component
 
 ### Tools
 
