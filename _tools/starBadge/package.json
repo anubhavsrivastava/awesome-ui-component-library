@@ -10,6 +10,6 @@
 	"author": "",
 	"license": "MIT",
 	"dependencies": {
-		"clipboardy": "^1.2.3"
+		"clipboardy": "^4.0.0"
 	}
 }
