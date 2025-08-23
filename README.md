@@ -38,6 +38,8 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
     -   [Related community list](#related-community-list-5)
 -   [Web Components](#web-components)
     -   [Related community list](#related-community-list-6)
+-   [Astro](#astro)
+    -   [Related community list](#related-community-list-7)
 -   [Some Community conversations](#some-community-conversations)
 -   [Styleguides](#styleguides)
 -   [Contribution](#contribution)
@@ -388,6 +390,16 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 ### Related community list
 
 -   [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - A curated list of awesome Web Components resources.
+
+---
+
+## Astro
+
+-   [WebcoreUI](https://webcoreui.dev/) [![Repo Star](https://img.shields.io/github/stars/Frontendland/webcoreui.svg?label=&style=social)](https://github.com/Frontendland/webcoreui) - Configurable and themeable Astro UI component library.
+
+### Related community list
+
+-   [Awesome Astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro.
 
 ---
 
