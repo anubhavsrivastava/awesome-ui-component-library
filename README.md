@@ -36,6 +36,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
     -   [Related community list](#related-community-list-4)
 -   [Mithril](#mithril)
     -   [Related community list](#related-community-list-5)
+-   [Rails](#rails)
 -   [Web Components](#web-components)
     -   [Related community list](#related-community-list-6)
 -   [Astro](#astro)
@@ -124,7 +125,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [React Material Web Components](https://jamesmfriedman.github.io/rmwc/) [![Repo Star](https://img.shields.io/github/stars/jamesmfriedman/rmwc.svg?label=&style=social)](https://github.com/jamesmfriedman/rmwc) - React Material Web Components, wraps Google's Official Material Design Components. Includes Flow and Typescript types. Individually packaged components.
 -   [React Materialize](https://react-materialize.github.io) [![Repo Star](https://img.shields.io/github/stars/react-materialize/react-materialize.svg?label=&style=social)](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materialize.css
 -   [React MD](https://react-md.mlaursen.com/) [![Repo Star](https://img.shields.io/github/stars/mlaursen/react-md.svg?label=&style=social)](https://github.com/mlaursen/react-md) - React toolkit for building a web app with Google’s Material Design with very highly customizable themes and styling (Sass)
--   [React Native Starter](https://flatlogic.com/templates/react-native-starter) [![Repo Star](https://img.shields.io/github/stars/mlaursen/react-md.svg?label=&style=social)](https://github.com/flatlogic/react-native-starter) - A powerful react native starter template that bootstraps development of your mobile application. 
+-   [React Native Starter](https://flatlogic.com/templates/react-native-starter) [![Repo Star](https://img.shields.io/github/stars/mlaursen/react-md.svg?label=&style=social)](https://github.com/flatlogic/react-native-starter) - A powerful react native starter template that bootstraps development of your mobile application.
 -   [React Responsive UI](https://catamphetamine.github.io/react-responsive-ui/) [![Repo Star](https://img.shields.io/github/stars/catamphetamine/react-responsive-ui.svg?label=&style=social)](https://github.com/catamphetamine/react-responsive-ui) - Responsive React UI components
 -   [React Toolbox](http://react-toolbox.io) [![Repo Star](https://img.shields.io/github/stars/react-toolbox/react-toolbox.svg?label=&style=social)](https://github.com/react-toolbox/react-toolbox/) - set of React components that implement Google's Material Design specification. It's powered by CSS Modules and harmoniously integrates with your webpack workflow.
 -   [React UI](http://lobos.github.io/react-ui) [![Repo Star](https://img.shields.io/github/stars/Lobos/react-ui.svg?label=&style=social)](https://github.com/Lobos/react-ui) - A collection of components for React, based on bootstrap 4.0. This project is no longer maintained.
@@ -390,6 +391,12 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 ### Related community list
 
 -   [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - A curated list of awesome Web Components resources.
+
+---
+
+## Rails
+
+-   [Rails Blocks](https://railsblocks.com) - A ready-to-use collection of hundreds of UI components for Ruby on Rails applications. Built for Rails v7+, styled with TailwindCSS v4+, and interactive with Stimulus
 
 ---
 
