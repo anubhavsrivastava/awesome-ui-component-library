@@ -410,6 +410,10 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ---
 
+## Marketplaces
+
+-   [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
+
 ## A11y Components
 
 -   [a11y-contrast](https://github.com/darekkay/a11y-contrast) — A CLI utility to calculate/verify accessible magic numbers for a color palette.
