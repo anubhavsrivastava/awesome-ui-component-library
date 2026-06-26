@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/anubhavsrivastava-awesome-ui-component-library-badge.png)](https://mseep.ai/app/anubhavsrivastava-awesome-ui-component-library)
+
 # Awesome UI component library
 
 [![HitCount](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library.svg)](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library)
