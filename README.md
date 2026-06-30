@@ -178,6 +178,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 -   [Styled Icons](https://styled-icons.js.org/) [![Repo Star](https://img.shields.io/github/stars/jacobwgillespie/styled-icons.svg?label=&style=social)](https://github.com/jacobwgillespie/styled-icons) - Font Awesome, Feather, Material Design, and Octicons icon packs as Styled Components
 -   `[Paid]` [ag-grid](https://www.ag-grid.com/) - Cross platform components for Grid/Tables
 -   `[Paid]` [Get Data Den](https://getdataden.com/) - Plugin that extends your projects functionality with a table component
+-   `[Paid]` [react-datatable](https://react-datatable.com/docs?utm_source=github&utm_medium=repository&utm_campaign=3rdcom265) - Source-licensed datatable kit on TanStack Table with Radix-style primitives and Tailwind; filters, grouping, views, virtualization, and client or server loading modes.
 
 ### Tools
 
