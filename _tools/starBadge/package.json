@@ -8,8 +8,5 @@
 		"start": "node index.js"
 	},
 	"author": "",
-	"license": "MIT",
-	"dependencies": {
-		"clipboardy": "^5.3.1"
-	}
+	"license": "MIT"
 }
