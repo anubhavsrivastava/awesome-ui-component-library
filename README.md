@@ -25,6 +25,7 @@
 - [React Native](#react-native)
   - [Special use case libraries](#special-use-case-libraries-2)
   - [Related community list](#related-community-list-2)
+- [Lynx](#lynx)
 - [Angular](#angular)
   - [Special use case libraries](#special-use-case-libraries-3)
   - [Related community list](#related-community-list-3)
@@ -293,6 +294,13 @@
 
 - [Native Directory](https://native.directory) - Native Directory is a curated list of React Native libraries to help you build your projects.
 - [Awesome React Native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+
+---
+
+## Lynx
+
+- [Lynx UI](https://lynxjs.org/next/ui/) [![Repo Star](https://img.shields.io/github/stars/lynx-family/lynx-ui.svg?label=&style=social)](https://github.com/lynx-family/lynx-ui) - The official headless component library for ReactLynx, from the Lynx team.
+- [Vy UI](https://vyui.dev) [![Repo Star](https://img.shields.io/github/stars/KealanAU/vyui.svg?label=&style=social)](https://github.com/KealanAU/vyui) - Headless primitives and styled components for Vue Lynx, with a shadcn-style CLI that copies component source into your project.
 
 ---
 
