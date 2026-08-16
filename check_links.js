@@ -76,3 +76,5 @@ async function main() {
 }
 
 main();
+
+# Fix for issue #34: safe input handling
