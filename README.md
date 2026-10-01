@@ -51,6 +51,7 @@
 ## React
 
 - [AgnosticUI](https://www.agnosticui.com/) - Accessible React Component Primitives (that also work with Svelte, Vue 3, and Angular).
+- [AI Canvas](https://aicanvas.me) [![Repo Star](https://img.shields.io/github/stars/uiNerd16/aicanvas.svg?label=&style=social)](https://github.com/uiNerd16/aicanvas) - Open-source (MIT) registry of animated React components, UI blocks and design systems built with Tailwind CSS and Framer Motion, installable via the shadcn CLI.
 - [ARWES](https://arwes.dev/) [![Repo Star](https://img.shields.io/github/stars/arwesjs/arwes.svg?label=&style=social)](https://github.com/arwesjs/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
 - [Ant Design React](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React-based implementation. Ant-design Pro is available [here](https://github.com/ant-design/ant-design-pro)
 - [Atlaskit](https://atlaskit.atlassian.com/) - Atlasssian’s official React UI kit is the technical implementation of the Atlassian Design Guidelines (ADG)
