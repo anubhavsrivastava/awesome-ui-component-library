@@ -427,6 +427,7 @@
 - [a11y-menu](https://aberkow.github.io/a11y-menu/) — This project aims to create a re-useable and accessible main navigation module.
 - [Scott Ohara's a11y components](https://github.com/scottaohara/accessible_components) — Listing of accessible components & patterns.
 - [Deque Cauldron](https://pattern-library.dequelabs.com/) — A fullyaccessibleHTML, CSS, and Javascript front-end framework for creating web and mobile applications.
+- [Riffle](https://github.com/reactivepixels/riffle) - A headless, accessible cycling card stack (WAI-ARIA carousel pattern) for vanilla JS, React and Vue.
 
 ---
 
