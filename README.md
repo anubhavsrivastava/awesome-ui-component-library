@@ -162,6 +162,7 @@
 - `[Paid]`[Mobiscroll](https://mobiscroll.com/react) - React components for Mobile UI Controls.
 - `[Paid]`[Wijmo React](https://www.grapecity.com/en/react/) - React components for Wizmo Toolkit from grapeCity.
 - [React tsParticles](https://github.com/matteobruni/tsparticles) - React component for easily add fully customizable particles animations to websites and web applications
+- [qodesign-free](https://teodoravadani.github.io/qodesign-free/) [![Repo Star](https://img.shields.io/github/stars/teodoravadani/qodesign-free.svg?label=&style=social)](https://github.com/teodoravadani/qodesign-free) - Free animated React components and two dashboards built with TypeScript, Tailwind CSS and Motion, each also shipped as a single HTML file.
 
 ### Special use case libraries
 
