@@ -36,6 +36,7 @@
   - [Related community list](#related-community-list-5)
 - [Web Components](#web-components)
   - [Related community list](#related-community-list-6)
+- [Vanilla JS](#vanilla-js)
 - [Rails](#rails)
 - [Astro](#astro)
   - [Related community list](#related-community-list-7)
@@ -399,6 +400,12 @@
 ### Related community list
 
 - [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - A curated list of awesome Web Components resources.
+
+---
+
+## Vanilla JS
+
+- [Kodza](https://kodza.dev) - Free premium UI components and effects in plain HTML, CSS and vanilla JS, no framework or build step, with an MCP server for AI assistants.
 
 ---
 
