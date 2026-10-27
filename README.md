@@ -165,6 +165,7 @@
 
 ### Special use case libraries
 
+- [Blok](https://blokeditor.com/) [![Repo Star](https://img.shields.io/github/stars/JackUait/blok.svg?label=&style=social)](https://github.com/JackUait/blok) - Notion-style block editor with a controlled React component; saves typed JSON instead of HTML
 - [Halogen](https://github.com/yuanyan/halogen) [![Repo Star](https://img.shields.io/github/stars/yuanyan/halogen.svg?label=&style=social)](https://github.com/yuanyan/halogen) - A collection of loading spinners with React.js
 - [Markstream](https://markstream.simonhe.me/) [![Repo Star](https://img.shields.io/github/stars/Simon-He95/markstream-vue.svg?label=&style=social)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown components for AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, and SSR.
 - [Nivo](https://nivo.rocks/) [![Repo Star](https://img.shields.io/github/stars/plouc/nivo.svg?label=&style=social)](https://github.com/plouc/nivo) - Nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.
