@@ -341,6 +341,7 @@
 
 ### Special use case libraries
 
+- [Blok](https://blokeditor.com/) [![Repo Star](https://img.shields.io/github/stars/JackUait/blok.svg?label=&style=social)](https://github.com/JackUait/blok) - Notion-style block editor with an Angular component; saves typed JSON instead of HTML
 - [Markstream](https://markstream.simonhe.me/) [![Repo Star](https://img.shields.io/github/stars/Simon-He95/markstream-vue.svg?label=&style=social)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown components for AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, and SSR.
 - [NG2 Charts](https://valor-software.com/ng2-charts) [![Repo Star](https://img.shields.io/github/stars/valor-software/ng2-charts.svg?label=&style=social)](https://github.com/valor-software/ng2-charts) - Angular directives for 6 different types of charts, with properties based on chart.js.
 - [NG2 Dragula](https://valor-software.com/ng2-dragula/) [![Repo Star](https://img.shields.io/github/stars/valor-software/ng2-dragula.svg?label=&style=social)](https://github.com/valor-software/ng2-dragula) - Official Angular wrapper for dragula for drag and drop
