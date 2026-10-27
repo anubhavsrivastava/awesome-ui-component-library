@@ -260,6 +260,7 @@
 
 ### Special use case libraries
 
+- [Blok](https://blokeditor.com/) [![Repo Star](https://img.shields.io/github/stars/JackUait/blok.svg?label=&style=social)](https://github.com/JackUait/blok) - Notion-style block editor with a Vue 3 component and composables; saves typed JSON instead of HTML
 - [Epic Spinners](https://epic-spinners.epicmax.co/#/) [![Repo Star](https://img.shields.io/github/stars/epicmaxco/epic-spinners.svg?label=&style=social)](https://github.com/epicmaxco/epic-spinners) - Reusable Vue components for spinners
 - `[Paid]`[jQWidgets](https://www.jqwidgets.com/vue-js-ui-components-for-jqwidgets/) - Vue components based on jqwidgets.
 - [Markstream](https://markstream.simonhe.me/) [![Repo Star](https://img.shields.io/github/stars/Simon-He95/markstream-vue.svg?label=&style=social)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown components for AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, and SSR.
