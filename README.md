@@ -180,6 +180,8 @@
 
 ### Tools
 
+[Aria Icons](https://icons.leularia.com) [![Repo Star](https://img.shields.io/github/stars/LeulAria/Aria-Icons.svg?label=&style=social)](https://github.com/LeulAria/Aria-Icons) — Search 1.4M open-source SVG icons and add them as SVG or React/Vue components via CLI or MCP.
+
 [Bit](https://github.com/teambit/bit) [![Repo Star](https://img.shields.io/github/stars/teambit/bit.svg?label=&style=social)](https://github.com/teambit/bit) — End-to-end component sharing and management. It takes care of component development and publishing in your library (automatic dependency resolution, versioning etc), making each of them individually useful to consume and develop anywhere, so teams can manage and share components at scale.
 
 [Payload Components](https://www.payload-components.xyz) [![Repo Star](https://img.shields.io/github/stars/Ducksss/payload-components.svg?label=&style=social)](https://github.com/Ducksss/payload-components) — MIT registry and CLI for installing typed Payload CMS blocks into Payload v3 + Next.js projects as owned source with collection, renderer, types, and admin import-map wiring.
