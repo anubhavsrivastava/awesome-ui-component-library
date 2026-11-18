@@ -51,6 +51,7 @@
 
 ## React
 
+- [7onic Design System](https://7onic.design) [![Repo Star](https://img.shields.io/github/stars/itonys/7onic.svg?label=&style=social)](https://github.com/itonys/7onic) - Open-source React design system with Figma tokens as the single source of truth, built on Radix UI and Tailwind CSS.
 - [AgnosticUI](https://www.agnosticui.com/) - Accessible React Component Primitives (that also work with Svelte, Vue 3, and Angular).
 - [ARWES](https://arwes.dev/) [![Repo Star](https://img.shields.io/github/stars/arwesjs/arwes.svg?label=&style=social)](https://github.com/arwesjs/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
 - [Ant Design React](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=&style=social)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React-based implementation. Ant-design Pro is available [here](https://github.com/ant-design/ant-design-pro)
