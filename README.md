@@ -167,6 +167,7 @@
 ### Special use case libraries
 
 - [Halogen](https://github.com/yuanyan/halogen) [![Repo Star](https://img.shields.io/github/stars/yuanyan/halogen.svg?label=&style=social)](https://github.com/yuanyan/halogen) - A collection of loading spinners with React.js
+- [Klar](https://klar.run) [![Repo Star](https://img.shields.io/github/stars/klar-run/klar.svg?label=&style=social)](https://github.com/klar-run/klar) - 110 React chart components in plain SVG with no chart library, light and dark themes, and SVG/PNG/CSV export
 - [Markstream](https://markstream.simonhe.me/) [![Repo Star](https://img.shields.io/github/stars/Simon-He95/markstream-vue.svg?label=&style=social)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown components for AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, and SSR.
 - [Nivo](https://nivo.rocks/) [![Repo Star](https://img.shields.io/github/stars/plouc/nivo.svg?label=&style=social)](https://github.com/plouc/nivo) - Nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.
 - [Recharts](http://recharts.org) [![Repo Star](https://img.shields.io/github/stars/recharts/recharts.svg?label=&style=social)](https://github.com/recharts/recharts) - Redefined chart library components built with D3
